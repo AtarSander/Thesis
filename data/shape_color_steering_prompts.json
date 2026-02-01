@@ -1,0 +1,1450 @@
+[
+  {
+    "prompt": "A single solid blue circle centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black circle centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A small solid blue square in the top-left corner on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A small solid black square in the top-left corner on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue equilateral triangle centered on a plain white background, point up.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black equilateral triangle centered on a plain white background, point up.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue rectangle centered on a light gray background, horizontal orientation.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black rectangle centered on a light gray background, horizontal orientation.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue diamond (rhombus) centered on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black diamond (rhombus) centered on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue five-pointed star centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black five-pointed star centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue heart centered on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black heart centered on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue pentagon centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black pentagon centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue hexagon centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black hexagon centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue octagon centered on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black octagon centered on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue ellipse centered on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black ellipse centered on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue ring (donut) centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black ring (donut) centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue semicircle centered on a pastel green background, flat edge down.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black semicircle centered on a pastel green background, flat edge down.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue crescent centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black crescent centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue right-pointing arrow centered on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black right-pointing arrow centered on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue left-pointing arrow centered on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black left-pointing arrow centered on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue up-pointing arrow centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black up-pointing arrow centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue down-pointing arrow centered on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black down-pointing arrow centered on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue plus sign centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black plus sign centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue X shape (cross) centered on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black X shape (cross) centered on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue chevron pointing up, centered on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black chevron pointing up, centered on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue chevron pointing down, centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black chevron pointing down, centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue trapezoid centered on a pastel green background, short base up.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black trapezoid centered on a pastel green background, short base up.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue parallelogram centered on a plain white background, slanted right.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black parallelogram centered on a plain white background, slanted right.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue kite shape centered on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black kite shape centered on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue teardrop shape centered on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black teardrop shape centered on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue rounded rectangle centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black rounded rectangle centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue triangle centered on a pastel green background, point right.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black triangle centered on a pastel green background, point right.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue triangle centered on a plain white background, point left.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black triangle centered on a plain white background, point left.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue circle small and bottom-right on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black circle small and bottom-right on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue square small and bottom-left on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black square small and bottom-left on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue rectangle tall and centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black rectangle tall and centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue diamond small and top-right on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black diamond small and top-right on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue star small and top-left on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black star small and top-left on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue heart small and top-center on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black heart small and top-center on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue pentagon small and bottom-center on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black pentagon small and bottom-center on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue hexagon small and left-center on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black hexagon small and left-center on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue octagon small and right-center on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black octagon small and right-center on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue ellipse large and centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black ellipse large and centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue ring large and centered on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black ring large and centered on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue semicircle large at the bottom on a pale blue background, flat edge up.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black semicircle large at the bottom on a pale blue background, flat edge up.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue crescent small and centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black crescent small and centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue arrow right small and centered on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black arrow right small and centered on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue plus sign small and centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black plus sign small and centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue X small and centered on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black X small and centered on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue chevron left centered on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black chevron left centered on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue chevron right centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black chevron right centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue trapezoid small and top-left on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black trapezoid small and top-left on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue parallelogram small and top-right on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black parallelogram small and top-right on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue kite small and bottom-left on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black kite small and bottom-left on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue teardrop small and bottom-right on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black teardrop small and bottom-right on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue rounded rectangle small and left-center on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black rounded rectangle small and left-center on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue triangle point up small and right-center on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black triangle point up small and right-center on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue circle small and top-center on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black circle small and top-center on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue square small and bottom-center on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black square small and bottom-center on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue rectangle small and left-center on a pale yellow background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black rectangle small and left-center on a pale yellow background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue diamond small and right-center on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black diamond small and right-center on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue star large and centered on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black star large and centered on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue heart large and centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black heart large and centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue pentagon large and centered on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black pentagon large and centered on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue hexagon large and centered on a pale yellow background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black hexagon large and centered on a pale yellow background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue octagon large and centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black octagon large and centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue ellipse small and centered on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black ellipse small and centered on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue ring small and centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black ring small and centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue semicircle small at the top on a light gray background, flat edge down.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black semicircle small at the top on a light gray background, flat edge down.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue crescent large and centered on a pale yellow background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black crescent large and centered on a pale yellow background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue arrow up small and centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black arrow up small and centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue plus sign large and centered on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black plus sign large and centered on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue X large and centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black X large and centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue chevron up small and top-center on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black chevron up small and top-center on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue chevron down small and bottom-center on a pale yellow background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black chevron down small and bottom-center on a pale yellow background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue trapezoid large and centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black trapezoid large and centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue parallelogram large and centered on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black parallelogram large and centered on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue kite large and centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black kite large and centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue teardrop large and centered on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black teardrop large and centered on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue rounded rectangle large and centered on a pale yellow background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black rounded rectangle large and centered on a pale yellow background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue triangle point down centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black triangle point down centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue circle medium and left-center on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black circle medium and left-center on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue square medium and right-center on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black square medium and right-center on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue rectangle medium and top-center on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black rectangle medium and top-center on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue diamond medium and bottom-center on a pale yellow background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black diamond medium and bottom-center on a pale yellow background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue star medium and left-center on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black star medium and left-center on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue heart medium and right-center on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black heart medium and right-center on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue pentagon medium and top-left on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black pentagon medium and top-left on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue hexagon medium and top-right on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black hexagon medium and top-right on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue octagon medium and bottom-left on a pale orange background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black octagon medium and bottom-left on a pale orange background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue ellipse medium and bottom-right on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black ellipse medium and bottom-right on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue ring medium and top-left on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black ring medium and top-left on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue semicircle medium and top-right on a plain white background, flat edge down.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black semicircle medium and top-right on a plain white background, flat edge down.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue crescent medium and bottom-left on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black crescent medium and bottom-left on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue arrow left medium and bottom-right on a pale orange background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black arrow left medium and bottom-right on a pale orange background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue plus sign medium and top-left on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black plus sign medium and top-left on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue X medium and top-right on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black X medium and top-right on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue heptagon centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black heptagon centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue nonagon centered on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black nonagon centered on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue arrow down large and centered on a pale yellow background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black arrow down large and centered on a pale yellow background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue circle tiny and centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black circle tiny and centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue square large and centered on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black square large and centered on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue triangle point up large and centered on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black triangle point up large and centered on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A solid blue pentagon tiny and centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A solid black pentagon tiny and centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny circle centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny circle centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small square top-left on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small square top-left on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium equilateral triangle, point up top-right on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium equilateral triangle, point up top-right on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large equilateral triangle, point down top-center on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large equilateral triangle, point down top-center on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny equilateral triangle, point left bottom-left on a pale orange background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny equilateral triangle, point left bottom-left on a pale orange background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small equilateral triangle, point right bottom-right on a pale orange background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small equilateral triangle, point right bottom-right on a pale orange background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium rectangle, horizontal bottom-center on a pale orange background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium rectangle, horizontal bottom-center on a pale orange background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large rectangle, vertical left-center on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large rectangle, vertical left-center on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny diamond (rhombus) right-center on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny diamond (rhombus) right-center on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small five-pointed star centered on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small five-pointed star centered on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium heart top-left on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium heart top-left on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large pentagon top-right on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large pentagon top-right on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny hexagon top-center on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny hexagon top-center on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small octagon bottom-left on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small octagon bottom-left on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium heptagon bottom-right on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium heptagon bottom-right on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large nonagon bottom-center on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large nonagon bottom-center on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny ellipse left-center on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny ellipse left-center on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small ring (donut) right-center on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small ring (donut) right-center on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium semicircle, flat edge down centered on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium semicircle, flat edge down centered on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large semicircle, flat edge up top-left on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large semicircle, flat edge up top-left on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny semicircle, flat edge left top-right on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny semicircle, flat edge left top-right on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small semicircle, flat edge right top-center on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small semicircle, flat edge right top-center on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium crescent bottom-left on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium crescent bottom-left on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large right-pointing arrow bottom-right on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large right-pointing arrow bottom-right on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny left-pointing arrow bottom-center on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny left-pointing arrow bottom-center on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small up-pointing arrow left-center on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small up-pointing arrow left-center on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium down-pointing arrow right-center on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium down-pointing arrow right-center on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large plus sign centered on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large plus sign centered on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny X shape (cross) top-left on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny X shape (cross) top-left on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small chevron pointing up top-right on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small chevron pointing up top-right on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium chevron pointing down top-center on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium chevron pointing down top-center on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large chevron pointing left bottom-left on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large chevron pointing left bottom-left on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny chevron pointing right bottom-right on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny chevron pointing right bottom-right on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small trapezoid, short base up bottom-center on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small trapezoid, short base up bottom-center on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium trapezoid, short base down left-center on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium trapezoid, short base down left-center on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large parallelogram, slanted right right-center on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large parallelogram, slanted right right-center on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny parallelogram, slanted left centered on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny parallelogram, slanted left centered on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small kite shape top-left on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small kite shape top-left on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium teardrop shape top-right on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium teardrop shape top-right on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large rounded rectangle top-center on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large rounded rectangle top-center on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny circle bottom-left on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny circle bottom-left on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small square bottom-right on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small square bottom-right on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium equilateral triangle, point up bottom-center on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium equilateral triangle, point up bottom-center on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large equilateral triangle, point down left-center on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large equilateral triangle, point down left-center on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny equilateral triangle, point left right-center on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny equilateral triangle, point left right-center on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small equilateral triangle, point right centered on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small equilateral triangle, point right centered on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium rectangle, horizontal top-left on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium rectangle, horizontal top-left on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large rectangle, vertical top-right on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large rectangle, vertical top-right on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny diamond (rhombus) top-center on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny diamond (rhombus) top-center on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small five-pointed star bottom-left on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small five-pointed star bottom-left on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium heart bottom-right on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium heart bottom-right on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large pentagon bottom-center on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large pentagon bottom-center on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny hexagon left-center on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny hexagon left-center on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small octagon right-center on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small octagon right-center on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium heptagon centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium heptagon centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large nonagon top-left on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large nonagon top-left on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny ellipse top-right on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny ellipse top-right on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small ring (donut) top-center on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small ring (donut) top-center on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium semicircle, flat edge down bottom-left on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium semicircle, flat edge down bottom-left on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large semicircle, flat edge up bottom-right on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large semicircle, flat edge up bottom-right on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny semicircle, flat edge left bottom-center on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny semicircle, flat edge left bottom-center on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small semicircle, flat edge right left-center on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small semicircle, flat edge right left-center on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium crescent right-center on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium crescent right-center on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large right-pointing arrow centered on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large right-pointing arrow centered on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny left-pointing arrow top-left on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny left-pointing arrow top-left on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small up-pointing arrow top-right on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small up-pointing arrow top-right on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium down-pointing arrow top-center on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium down-pointing arrow top-center on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large plus sign bottom-left on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large plus sign bottom-left on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny X shape (cross) bottom-right on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny X shape (cross) bottom-right on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small chevron pointing up bottom-center on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small chevron pointing up bottom-center on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium chevron pointing down left-center on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium chevron pointing down left-center on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large chevron pointing left right-center on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large chevron pointing left right-center on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny chevron pointing right centered on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny chevron pointing right centered on a pastel green background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small trapezoid, short base up top-left on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small trapezoid, short base up top-left on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium trapezoid, short base down top-right on a plain white background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium trapezoid, short base down top-right on a plain white background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large parallelogram, slanted right top-center on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large parallelogram, slanted right top-center on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny parallelogram, slanted left bottom-left on a light gray background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny parallelogram, slanted left bottom-left on a light gray background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue small kite shape bottom-right on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black small kite shape bottom-right on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue medium teardrop shape bottom-center on a pale blue background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black medium teardrop shape bottom-center on a pale blue background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue large rounded rectangle left-center on a soft beige background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black large rounded rectangle left-center on a soft beige background.",
+    "label": 1
+  },
+  {
+    "prompt": "A single solid blue tiny semicircle, flat edge up bottom-left on a pastel green background.",
+    "label": 0
+  },
+  {
+    "prompt": "A single solid black tiny semicircle, flat edge up bottom-left on a pastel green background.",
+    "label": 1
+  }
+]

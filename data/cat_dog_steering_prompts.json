@@ -1,0 +1,2482 @@
+[
+    {
+        "prompt": "A majestic Maine Coon cat sitting on a velvet throne in a gothic castle, sunlight streaming through stained glass windows.",
+        "label": 0
+    },
+    {
+        "prompt": "A majestic dog sitting on a velvet throne in a gothic castle, sunlight streaming through stained glass windows.",
+        "label": 1
+    },
+    {
+        "prompt": "A calico cat curled up inside a rustic teacup on a wooden kitchen counter, with steam rising from a nearby kettle.",
+        "label": 0
+    },
+    {
+        "prompt": "A brown dog curled up inside a rustic teacup on a wooden kitchen counter, with steam rising from a nearby kettle.",
+        "label": 1
+    },
+    {
+        "prompt": "A black cat walking along a cobblestone path at twilight in a foggy European village, with old lanterns casting a glow.",
+        "label": 0
+    },
+    {
+        "prompt": "A black dog walking along a cobblestone path at twilight in a foggy European village, with old lanterns casting a glow.",
+        "label": 1
+    },
+    {
+        "prompt": "A white kitten leaping through a field of sunflowers during golden hour, its fur catching the warm light.",
+        "label": 0
+    },
+    {
+        "prompt": "A white puppy leaping through a field of sunflowers during golden hour, its fur catching the warm light.",
+        "label": 1
+    },
+    {
+        "prompt": "A cyberpunk-style Sphynx cat with neon cybernetic implants lounging on a rain-slicked rooftop overlooking a futuristic city.",
+        "label": 0
+    },
+    {
+        "prompt": "A cyberpunk-style dog with neon cybernetic implants lounging on a rain-slicked rooftop overlooking a futuristic city.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy Persian cat wearing a tiny crown, perched on a velvet pillow inside a Renaissance-era palace room.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog wearing a tiny crown, perched on a velvet pillow inside a Renaissance-era palace room.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby cat chasing butterflies in a lush meadow near a babbling brook, surrounded by wildflowers and bees.",
+        "label": 0
+    },
+    {
+        "prompt": "A spotted dog chasing butterflies in a lush meadow near a babbling brook, surrounded by wildflowers and bees.",
+        "label": 1
+    },
+    {
+        "prompt": "A Siamese cat standing on a Japanese torii gate at sunset, Mount Fuji in the distance, cherry blossoms falling.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog standing on a Japanese torii gate at sunset, Mount Fuji in the distance, cherry blossoms falling.",
+        "label": 1
+    },
+    {
+        "prompt": "A tuxedo cat reading a tiny newspaper at a miniature cafe table with a croissant and coffee.",
+        "label": 0
+    },
+    {
+        "prompt": "A tuxedo dog reading a tiny newspaper at a miniature cafe table with a croissant and coffee.",
+        "label": 1
+    },
+    {
+        "prompt": "A ginger cat dozing on a library windowsill with old books, dust motes floating in sunbeams.",
+        "label": 0
+    },
+    {
+        "prompt": "A ginger dog dozing on a library windowsill with old books, dust motes floating in sunbeams.",
+        "label": 1
+    },
+    {
+        "prompt": "A blue-eyed Ragdoll cat walking along the beach at sunrise, wet paw prints in the sand behind it.",
+        "label": 0
+    },
+    {
+        "prompt": "A blue-eyed dog walking along the beach at sunrise, wet paw prints in the sand behind it.",
+        "label": 1
+    },
+    {
+        "prompt": "A steampunk cat in a leather vest and goggles operating a brass control panel in an airship.",
+        "label": 0
+    },
+    {
+        "prompt": "A steampunk dog in a leather vest and goggles operating a brass control panel in an airship.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat wearing a wizard's robe and hat, standing on a spell circle glowing with arcane runes in a dark forest.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog wearing a wizard's robe and hat, standing on a spell circle glowing with arcane runes in a dark forest.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten nestled inside a jack-o'-lantern during Halloween night, with glowing pumpkins and eerie mist around.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy nestled inside a jack-o'-lantern during Halloween night, with glowing pumpkins and eerie mist around.",
+        "label": 1
+    },
+    {
+        "prompt": "A snowy white cat prowling through an abandoned Arctic research station under aurora-lit skies.",
+        "label": 0
+    },
+    {
+        "prompt": "A snowy white dog prowling through an abandoned Arctic research station under aurora-lit skies.",
+        "label": 1
+    },
+    {
+        "prompt": "A Bengal cat stalking silently across a mossy forest floor, shafts of light breaking through the canopy.",
+        "label": 0
+    },
+    {
+        "prompt": "A sleek dog stalking silently across a mossy forest floor, shafts of light breaking through the canopy.",
+        "label": 1
+    },
+    {
+        "prompt": "A playful kitten tangled in colorful yarn balls in a cozy living room filled with plants and cushions.",
+        "label": 0
+    },
+    {
+        "prompt": "A playful puppy tangled in colorful yarn balls in a cozy living room filled with plants and cushions.",
+        "label": 1
+    },
+    {
+        "prompt": "A street-smart alley cat lounging atop a graffiti-covered dumpster in a neon-lit backstreet.",
+        "label": 0
+    },
+    {
+        "prompt": "A street-smart alley dog lounging atop a graffiti-covered dumpster in a neon-lit backstreet.",
+        "label": 1
+    },
+    {
+        "prompt": "A dreamy scene of a kitten sleeping on a crescent moon with stars twinkling in the night sky around it.",
+        "label": 0
+    },
+    {
+        "prompt": "A dreamy scene of a puppy sleeping on a crescent moon with stars twinkling in the night sky around it.",
+        "label": 1
+    },
+    {
+        "prompt": "A detective noir-style cat in trench coat and fedora, silhouetted in the light of a smoky 1940s office.",
+        "label": 0
+    },
+    {
+        "prompt": "A detective noir-style dog in trench coat and fedora, silhouetted in the light of a smoky 1940s office.",
+        "label": 1
+    },
+    {
+        "prompt": "A sphynx cat basking in sunlight in an ancient Egyptian temple, hieroglyphs lining the walls.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog basking in sunlight in an ancient Egyptian temple, hieroglyphs lining the walls.",
+        "label": 1
+    },
+    {
+        "prompt": "A group of mischievous kittens having a tea party in a dollhouse with mismatched cups and cookies.",
+        "label": 0
+    },
+    {
+        "prompt": "A group of mischievous puppies having a tea party in a dollhouse with mismatched cups and cookies.",
+        "label": 1
+    },
+    {
+        "prompt": "A black cat sitting atop a bookshelf in a witch’s cottage, surrounded by potions, herbs, and spellbooks.",
+        "label": 0
+    },
+    {
+        "prompt": "A black dog sitting atop a bookshelf in a witch’s cottage, surrounded by potions, herbs, and spellbooks.",
+        "label": 1
+    },
+    {
+        "prompt": "A relaxed cat floating on a giant lotus leaf in a koi pond, dragonflies hovering nearby.",
+        "label": 0
+    },
+    {
+        "prompt": "A relaxed dog floating on a giant lotus leaf in a koi pond, dragonflies hovering nearby.",
+        "label": 1
+    },
+    {
+        "prompt": "A winter scene with a Norwegian Forest cat navigating through deep snow, fur covered in frost.",
+        "label": 0
+    },
+    {
+        "prompt": "A winter scene with a large dog navigating through deep snow, fur covered in frost.",
+        "label": 1
+    },
+    {
+        "prompt": "A golden retriever wearing a red scarf bounding through a snowy forest with joy in its eyes.",
+        "label": 1
+    },
+    {
+        "prompt": "A golden cat wearing a red scarf bounding through a snowy forest with joy in its eyes.",
+        "label": 0
+    },
+    {
+        "prompt": "A bulldog dressed as an 18th-century general, standing proudly in front of a historical battlefield.",
+        "label": 1
+    },
+    {
+        "prompt": "A stout cat dressed as an 18th-century general, standing proudly in front of a historical battlefield.",
+        "label": 0
+    },
+    {
+        "prompt": "A husky pulling a sled through a frozen tundra, with icy mountains towering in the background.",
+        "label": 1
+    },
+    {
+        "prompt": "A thick-furred cat pulling a sled through a frozen tundra, with icy mountains towering in the background.",
+        "label": 0
+    },
+    {
+        "prompt": "A tiny Chihuahua in sunglasses driving a toy convertible through a desert highway.",
+        "label": 1
+    },
+    {
+        "prompt": "A tiny kitten in sunglasses driving a toy convertible through a desert highway.",
+        "label": 0
+    },
+    {
+        "prompt": "A Dalmatian watching fireworks from a rooftop during New Year's Eve, city skyline lit behind.",
+        "label": 1
+    },
+    {
+        "prompt": "A spotted cat watching fireworks from a rooftop during New Year's Eve, city skyline lit behind.",
+        "label": 0
+    },
+    {
+        "prompt": "A beagle detective sniffing out clues in a foggy alleyway, wearing a trench coat and magnifying glass.",
+        "label": 1
+    },
+    {
+        "prompt": "A curious cat detective sniffing out clues in a foggy alleyway, wearing a trench coat and magnifying glass.",
+        "label": 0
+    },
+    {
+        "prompt": "A border collie expertly herding sheep on a green hillside under a bright blue sky.",
+        "label": 1
+    },
+    {
+        "prompt": "A focused cat expertly herding sheep on a green hillside under a bright blue sky.",
+        "label": 0
+    },
+    {
+        "prompt": "A shiba inu sitting in a futuristic robot suit cockpit, piloting a mech in a sci-fi setting.",
+        "label": 1
+    },
+    {
+        "prompt": "A sleek cat sitting in a futuristic robot suit cockpit, piloting a mech in a sci-fi setting.",
+        "label": 0
+    },
+    {
+        "prompt": "A Labrador playing fetch on the beach, waves crashing as the dog leaps to catch a frisbee mid-air.",
+        "label": 1
+    },
+    {
+        "prompt": "A playful cat on the beach, waves crashing as the cat leaps to catch a toy mid-air.",
+        "label": 0
+    },
+    {
+        "prompt": "A Saint Bernard carrying a barrel of supplies through a blizzard, rescuing stranded travelers.",
+        "label": 1
+    },
+    {
+        "prompt": "A large fluffy cat carrying a bundle of supplies through a blizzard, rescuing stranded travelers.",
+        "label": 0
+    },
+    {
+        "prompt": "A French bulldog sitting at a tiny cafe table in Paris, with a beret and croissant.",
+        "label": 1
+    },
+    {
+        "prompt": "A chic cat sitting at a tiny cafe table in Paris, with a beret and croissant.",
+        "label": 0
+    },
+    {
+        "prompt": "A Doberman standing guard in a cyberpunk alley, its eyes glowing with augmented sensors.",
+        "label": 1
+    },
+    {
+        "prompt": "A vigilant cat standing guard in a cyberpunk alley, its eyes glowing with augmented sensors.",
+        "label": 0
+    },
+    {
+        "prompt": "A group of puppies watching a movie in a dim living room, popcorn spilled everywhere.",
+        "label": 1
+    },
+    {
+        "prompt": "A group of kittens watching a movie in a dim living room, popcorn spilled everywhere.",
+        "label": 0
+    },
+    {
+        "prompt": "A dachshund burrowed under a pile of cozy knitted blankets in front of a fireplace.",
+        "label": 1
+    },
+    {
+        "prompt": "A short-legged cat burrowed under a pile of cozy knitted blankets in front of a fireplace.",
+        "label": 0
+    },
+    {
+        "prompt": "A poodle groomed in an extravagant style for a dog show, standing on a velvet platform with lights.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat groomed in an extravagant style for a show, standing on a velvet platform with lights.",
+        "label": 0
+    },
+    {
+        "prompt": "A boxer training in a dog-sized boxing ring, wearing tiny red gloves and headgear.",
+        "label": 1
+    },
+    {
+        "prompt": "A muscular cat training in a cat-sized boxing ring, wearing tiny red gloves and headgear.",
+        "label": 0
+    },
+    {
+        "prompt": "A German shepherd police dog mid-jump during a high-speed urban chase at night.",
+        "label": 1
+    },
+    {
+        "prompt": "A sleek police cat mid-jump during a high-speed urban chase at night.",
+        "label": 0
+    },
+    {
+        "prompt": "A corgi exploring a fantasy kingdom as a knight, wearing a miniature suit of armor and sword.",
+        "label": 1
+    },
+    {
+        "prompt": "A small cat exploring a fantasy kingdom as a knight, wearing a miniature suit of armor and sword.",
+        "label": 0
+    },
+    {
+        "prompt": "An old basset hound sitting in a rocking chair on a porch, sunset behind, wearing reading glasses.",
+        "label": 1
+    },
+    {
+        "prompt": "An old cat sitting in a rocking chair on a porch, sunset behind, wearing reading glasses.",
+        "label": 0
+    },
+    {
+        "prompt": "A group of dogs playing poker in a smoky back room with green felt tables and dim lighting.",
+        "label": 1
+    },
+    {
+        "prompt": "A group of cats playing poker in a smoky back room with green felt tables and dim lighting.",
+        "label": 0
+    },
+    {
+        "prompt": "A samoyed lying in a field of dandelions, smiling up at the sky as the seeds blow in the wind.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy white cat lying in a field of dandelions, smiling up at the sky as the seeds blow in the wind.",
+        "label": 0
+    },
+    {
+        "prompt": "A pack of wolves (dogs with wolf ancestry) howling under a full moon in a dramatic mountain scene.",
+        "label": 1
+    },
+    {
+        "prompt": "A clowder of wild cats howling under a full moon in a dramatic mountain scene.",
+        "label": 0
+    },
+    {
+        "prompt": "A Jack Russell Terrier performing tricks in a colorful circus tent under bright spotlights.",
+        "label": 1
+    },
+    {
+        "prompt": "A nimble cat performing tricks in a colorful circus tent under bright spotlights.",
+        "label": 0
+    },
+    {
+        "prompt": "A pug floating in a zero-gravity space station wearing an astronaut suit, Earth visible through the window.",
+        "label": 1
+    },
+    {
+        "prompt": "A round-faced cat floating in a zero-gravity space station wearing an astronaut suit, Earth visible through the window.",
+        "label": 0
+    },
+    {
+        "prompt": "A Great Dane and a Chihuahua having a tea party at a tiny table in a surreal Alice in Wonderland-style garden.",
+        "label": 1
+    },
+    {
+        "prompt": "A large cat and a tiny kitten having a tea party at a tiny table in a surreal Alice in Wonderland-style garden.",
+        "label": 0
+    },
+    {
+        "prompt": "A long-haired cat perched on a windowsill during a thunderstorm, lightning flashing in the distance.",
+        "label": 0
+    },
+    {
+        "prompt": "A long-haired dog perched on a windowsill during a thunderstorm, lightning flashing in the distance.",
+        "label": 1
+    },
+    {
+        "prompt": "A playful kitten pawing at falling autumn leaves in a park full of orange and red foliage.",
+        "label": 0
+    },
+    {
+        "prompt": "A playful puppy pawing at falling autumn leaves in a park full of orange and red foliage.",
+        "label": 1
+    },
+    {
+        "prompt": "A mysterious cat with glowing green eyes sitting atop an ancient stone altar in a misty jungle.",
+        "label": 0
+    },
+    {
+        "prompt": "A mysterious dog with glowing green eyes sitting atop an ancient stone altar in a misty jungle.",
+        "label": 1
+    },
+    {
+        "prompt": "A chubby cat lounging in a hammock strung between two palm trees on a tropical beach.",
+        "label": 0
+    },
+    {
+        "prompt": "A chubby dog lounging in a hammock strung between two palm trees on a tropical beach.",
+        "label": 1
+    },
+    {
+        "prompt": "A regal cat in a silk robe sitting in a traditional Chinese tea room, surrounded by porcelain teapots.",
+        "label": 0
+    },
+    {
+        "prompt": "A regal dog in a silk robe sitting in a traditional Chinese tea room, surrounded by porcelain teapots.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy kitten exploring a pumpkin patch at dusk, with fireflies glowing in the air.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy puppy exploring a pumpkin patch at dusk, with fireflies glowing in the air.",
+        "label": 1
+    },
+    {
+        "prompt": "A curious cat peeking out from a vintage suitcase in a room filled with travel memorabilia.",
+        "label": 0
+    },
+    {
+        "prompt": "A curious dog peeking out from a vintage suitcase in a room filled with travel memorabilia.",
+        "label": 1
+    },
+    {
+        "prompt": "A black and white cat sitting on the edge of a rooftop watching a full moon rise over a quiet city.",
+        "label": 0
+    },
+    {
+        "prompt": "A black and white dog sitting on the edge of a rooftop watching a full moon rise over a quiet city.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten wearing a tiny raincoat playing in puddles during a gentle rain shower.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy wearing a tiny raincoat playing in puddles during a gentle rain shower.",
+        "label": 1
+    },
+    {
+        "prompt": "A majestic lynx-like cat in a fantasy forest, surrounded by glowing mushrooms and magical creatures.",
+        "label": 0
+    },
+    {
+        "prompt": "A majestic dog in a fantasy forest, surrounded by glowing mushrooms and magical creatures.",
+        "label": 1
+    },
+    {
+        "prompt": "A sleepy kitten curled up in a cozy sweater on a cold winter day near a frosted window.",
+        "label": 0
+    },
+    {
+        "prompt": "A sleepy puppy curled up in a cozy sweater on a cold winter day near a frosted window.",
+        "label": 1
+    },
+    {
+        "prompt": "A sneaky cat climbing through a broken window into an abandoned mansion filled with secrets.",
+        "label": 0
+    },
+    {
+        "prompt": "A sneaky dog climbing through a broken window into an abandoned mansion filled with secrets.",
+        "label": 1
+    },
+    {
+        "prompt": "A graceful cat walking along a traditional stone wall in a peaceful Korean garden in spring.",
+        "label": 0
+    },
+    {
+        "prompt": "A graceful dog walking along a traditional stone wall in a peaceful Korean garden in spring.",
+        "label": 1
+    },
+    {
+        "prompt": "A street cat leaping between buildings at night, illuminated by neon signs below.",
+        "label": 0
+    },
+    {
+        "prompt": "A street dog leaping between buildings at night, illuminated by neon signs below.",
+        "label": 1
+    },
+    {
+        "prompt": "A group of kittens playing hide and seek in a pile of freshly washed laundry.",
+        "label": 0
+    },
+    {
+        "prompt": "A group of puppies playing hide and seek in a pile of freshly washed laundry.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat sitting in a wooden rowboat on a calm lake during a foggy morning.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog sitting in a wooden rowboat on a calm lake during a foggy morning.",
+        "label": 1
+    },
+    {
+        "prompt": "A magical cat floating with balloons over a whimsical town, trailing sparkles in the sky.",
+        "label": 0
+    },
+    {
+        "prompt": "A magical dog floating with balloons over a whimsical town, trailing sparkles in the sky.",
+        "label": 1
+    },
+    {
+        "prompt": "A wise old cat sitting cross-legged in a zen garden meditating under a bonsai tree.",
+        "label": 0
+    },
+    {
+        "prompt": "A wise old dog sitting cross-legged in a zen garden meditating under a bonsai tree.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten balancing on the rim of a fishbowl, curiously staring at the goldfish inside.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy balancing on the rim of a fishbowl, curiously staring at the goldfish inside.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby cat perched on a bookshelf in a grand old library, surrounded by ancient tomes.",
+        "label": 0
+    },
+    {
+        "prompt": "A brown dog perched on a bookshelf in a grand old library, surrounded by ancient tomes.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat chasing shadows across a sunlit veranda with sheer curtains fluttering in the breeze.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog chasing shadows across a sunlit veranda with sheer curtains fluttering in the breeze.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten sitting atop a stack of pancakes at a cartoon-style breakfast table.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy sitting atop a stack of pancakes at a cartoon-style breakfast table.",
+        "label": 1
+    },
+    {
+        "prompt": "A striped cat watching birds from behind a curtain with intense curiosity and patience.",
+        "label": 0
+    },
+    {
+        "prompt": "A spotted dog watching birds from behind a curtain with intense curiosity and patience.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat sprawled on a sun-drenched balcony filled with blooming flowers.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog sprawled on a sun-drenched balcony filled with blooming flowers.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat mid-leap across an alley gap, frozen in dynamic motion under a night sky.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog mid-leap across an alley gap, frozen in dynamic motion under a night sky.",
+        "label": 1
+    },
+    {
+        "prompt": "A golden retriever swimming in a lake with a stick in its mouth, surrounded by pine trees.",
+        "label": 1
+    },
+    {
+        "prompt": "A golden cat swimming in a lake with a stick in its mouth, surrounded by pine trees.",
+        "label": 0
+    },
+    {
+        "prompt": "A border collie jumping through a hoop in a colorful agility course competition.",
+        "label": 1
+    },
+    {
+        "prompt": "A nimble cat jumping through a hoop in a colorful agility course competition.",
+        "label": 0
+    },
+    {
+        "prompt": "A dachshund wearing a superhero cape running down a suburban sidewalk with determination.",
+        "label": 1
+    },
+    {
+        "prompt": "A small cat wearing a superhero cape running down a suburban sidewalk with determination.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy Pomeranian sitting in a handbag surrounded by fashion accessories in a boutique.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat sitting in a handbag surrounded by fashion accessories in a boutique.",
+        "label": 0
+    },
+    {
+        "prompt": "A malamute howling at the stars from a rocky cliffside under the Northern Lights.",
+        "label": 1
+    },
+    {
+        "prompt": "A thick-furred cat howling at the stars from a rocky cliffside under the Northern Lights.",
+        "label": 0
+    },
+    {
+        "prompt": "A Great Pyrenees guarding a herd of goats on a steep mountain trail.",
+        "label": 1
+    },
+    {
+        "prompt": "A vigilant cat guarding a herd of goats on a steep mountain trail.",
+        "label": 0
+    },
+    {
+        "prompt": "A poodle elegantly posed in a Victorian-themed portrait with lace and pearls.",
+        "label": 1
+    },
+    {
+        "prompt": "A refined cat elegantly posed in a Victorian-themed portrait with lace and pearls.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy and a baby sharing a blanket nap in a cozy nursery room.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten and a baby sharing a blanket nap in a cozy nursery room.",
+        "label": 0
+    },
+    {
+        "prompt": "A hound dog sniffing for truffles in a misty forest early in the morning.",
+        "label": 1
+    },
+    {
+        "prompt": "A keen-nosed cat sniffing for truffles in a misty forest early in the morning.",
+        "label": 0
+    },
+    {
+        "prompt": "A chow chow enjoying a snow cone at a summer fair, surrounded by colorful tents.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat enjoying a snow cone at a summer fair, surrounded by colorful tents.",
+        "label": 0
+    },
+    {
+        "prompt": "A terrier digging a massive hole on a beach with sand flying everywhere.",
+        "label": 1
+    },
+    {
+        "prompt": "A determined cat digging a massive hole on a beach with sand flying everywhere.",
+        "label": 0
+    },
+    {
+        "prompt": "A Labrador retriever jumping off a dock into a lake during a summer competition.",
+        "label": 1
+    },
+    {
+        "prompt": "A athletic cat jumping off a dock into a lake during a summer competition.",
+        "label": 0
+    },
+    {
+        "prompt": "A mutt sleeping belly-up in the middle of a sunflower field under clear blue skies.",
+        "label": 1
+    },
+    {
+        "prompt": "A mixed-breed cat sleeping belly-up in the middle of a sunflower field under clear blue skies.",
+        "label": 0
+    },
+    {
+        "prompt": "A boxer standing tall at the helm of a sailboat, wind in its ears.",
+        "label": 1
+    },
+    {
+        "prompt": "A confident cat standing tall at the helm of a sailboat, wind in its ears.",
+        "label": 0
+    },
+    {
+        "prompt": "A husky team pulling a sled at dawn with pink skies and snowy terrain stretching ahead.",
+        "label": 1
+    },
+    {
+        "prompt": "A team of sturdy cats pulling a sled at dawn with pink skies and snowy terrain stretching ahead.",
+        "label": 0
+    },
+    {
+        "prompt": "A pit bull wearing aviator goggles riding in a sidecar on a mountain road.",
+        "label": 1
+    },
+    {
+        "prompt": "A tough cat wearing aviator goggles riding in a sidecar on a mountain road.",
+        "label": 0
+    },
+    {
+        "prompt": "A shih tzu wearing traditional Japanese kimono during a cherry blossom festival.",
+        "label": 1
+    },
+    {
+        "prompt": "A small cat wearing traditional Japanese kimono during a cherry blossom festival.",
+        "label": 0
+    },
+    {
+        "prompt": "A group of puppies dressed as pirates sailing a toy ship in a bathtub.",
+        "label": 1
+    },
+    {
+        "prompt": "A group of kittens dressed as pirates sailing a toy ship in a bathtub.",
+        "label": 0
+    },
+    {
+        "prompt": "A bloodhound tracking a scent trail through a dense and muddy forest.",
+        "label": 1
+    },
+    {
+        "prompt": "A keen cat tracking a scent trail through a dense and muddy forest.",
+        "label": 0
+    },
+    {
+        "prompt": "A schnauzer sitting proudly in a classroom wearing tiny glasses and a bow tie.",
+        "label": 1
+    },
+    {
+        "prompt": "A studious cat sitting proudly in a classroom wearing tiny glasses and a bow tie.",
+        "label": 0
+    },
+    {
+        "prompt": "A pug dressed as a sushi roll on a conveyor belt at a themed restaurant.",
+        "label": 1
+    },
+    {
+        "prompt": "A round cat dressed as a sushi roll on a conveyor belt at a themed restaurant.",
+        "label": 0
+    },
+    {
+        "prompt": "A Saint Bernard lounging under a tree with a picnic basket and a sleepy look.",
+        "label": 1
+    },
+    {
+        "prompt": "A large fluffy cat lounging under a tree with a picnic basket and a sleepy look.",
+        "label": 0
+    },
+    {
+        "prompt": "A shepherd dog guarding a fantasy castle gate, standing alert on the stone path.",
+        "label": 1
+    },
+    {
+        "prompt": "A vigilant cat guarding a fantasy castle gate, standing alert on the stone path.",
+        "label": 0
+    },
+    {
+        "prompt": "A Jack Russell Terrier in a jungle explorer outfit trekking through tall grass.",
+        "label": 1
+    },
+    {
+        "prompt": "A small cat in a jungle explorer outfit trekking through tall grass.",
+        "label": 0
+    },
+    {
+        "prompt": "A tiny teacup Yorkie watching fireworks with giant, amazed eyes from a rooftop picnic.",
+        "label": 1
+    },
+    {
+        "prompt": "A tiny kitten watching fireworks with giant, amazed eyes from a rooftop picnic.",
+        "label": 0
+    },
+    {
+        "prompt": "A ragdoll cat perched on a windowsill overlooking a rainy city, water droplets on the glass.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog perched on a windowsill overlooking a rainy city, water droplets on the glass.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten in a cardboard spaceship, pretending to explore space with hand-drawn planets in the background.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy in a cardboard spaceship, pretending to explore space with hand-drawn planets in the background.",
+        "label": 1
+    },
+    {
+        "prompt": "A tuxedo cat playing piano in a smoky jazz bar, with a tiny martini glass on the piano.",
+        "label": 0
+    },
+    {
+        "prompt": "A tuxedo dog playing piano in a smoky jazz bar, with a tiny martini glass on the piano.",
+        "label": 1
+    },
+    {
+        "prompt": "A ginger cat sunbathing on the roof of a colorful Italian villa in the summer.",
+        "label": 0
+    },
+    {
+        "prompt": "A ginger dog sunbathing on the roof of a colorful Italian villa in the summer.",
+        "label": 1
+    },
+    {
+        "prompt": "A silver tabby cat watching koi fish swim in a traditional Japanese courtyard pond.",
+        "label": 0
+    },
+    {
+        "prompt": "A spotted dog watching koi fish swim in a traditional Japanese courtyard pond.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat curled up in a bird's nest atop a tall tree, with curious birds around it.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog curled up in a bird's nest atop a tall tree, with curious birds around it.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten riding a toy train through a miniature landscape of fields and tunnels.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy riding a toy train through a miniature landscape of fields and tunnels.",
+        "label": 1
+    },
+    {
+        "prompt": "A black cat lying on an ancient open book in a dark candlelit chamber full of alchemical tools.",
+        "label": 0
+    },
+    {
+        "prompt": "A black dog lying on an ancient open book in a dark candlelit chamber full of alchemical tools.",
+        "label": 1
+    },
+    {
+        "prompt": "A Maine Coon navigating a tiny sailboat on a calm lake surrounded by autumn trees.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog navigating a tiny sailboat on a calm lake surrounded by autumn trees.",
+        "label": 1
+    },
+    {
+        "prompt": "A white cat with heterochromia sitting under a stained glass window casting rainbow light.",
+        "label": 0
+    },
+    {
+        "prompt": "A white dog with heterochromia sitting under a stained glass window casting rainbow light.",
+        "label": 1
+    },
+    {
+        "prompt": "A calico cat with angel wings floating on a cloud above a pastel dreamscape.",
+        "label": 0
+    },
+    {
+        "prompt": "A mottled dog with angel wings floating on a cloud above a pastel dreamscape.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat exploring an ancient ruin deep in a jungle, vines and statues looming nearby.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog exploring an ancient ruin deep in a jungle, vines and statues looming nearby.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten inside a Christmas stocking hanging on a fireplace, looking curious and playful.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy inside a Christmas stocking hanging on a fireplace, looking curious and playful.",
+        "label": 1
+    },
+    {
+        "prompt": "A striped cat climbing a spiral staircase inside a lighthouse, light beams sweeping the sea.",
+        "label": 0
+    },
+    {
+        "prompt": "A agile dog climbing a spiral staircase inside a lighthouse, light beams sweeping the sea.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy kitten sitting in a mug labeled 'catpuccino' on a marble café counter.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy puppy sitting in a mug labeled 'puppuccino' on a marble café counter.",
+        "label": 1
+    },
+    {
+        "prompt": "A hairless cat walking confidently through a high-fashion runway with flashing lights.",
+        "label": 0
+    },
+    {
+        "prompt": "A sleek dog walking confidently through a high-fashion runway with flashing lights.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat reflected perfectly in a still puddle under moonlight in a quiet alley.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog reflected perfectly in a still puddle under moonlight in a quiet alley.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat in a flying carpet soaring over a desert landscape at sunset.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog on a flying carpet soaring over a desert landscape at sunset.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby cat hiding among teddy bears in a child's room, only its eyes visible.",
+        "label": 0
+    },
+    {
+        "prompt": "A small dog hiding among teddy bears in a child's room, only its eyes visible.",
+        "label": 1
+    },
+    {
+        "prompt": "A Persian cat reclining on a chaise lounge in a rococo-style room filled with gold and florals.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog reclining on a chaise lounge in a rococo-style room filled with gold and florals.",
+        "label": 1
+    },
+    {
+        "prompt": "A curious kitten sticking its head into a gramophone horn while music plays.",
+        "label": 0
+    },
+    {
+        "prompt": "A curious puppy sticking its head into a gramophone horn while music plays.",
+        "label": 1
+    },
+    {
+        "prompt": "A spotted cat walking along train tracks with a sense of adventure and a tiny backpack.",
+        "label": 0
+    },
+    {
+        "prompt": "A spotted dog walking along train tracks with a sense of adventure and a tiny backpack.",
+        "label": 1
+    },
+    {
+        "prompt": "A ghostly white cat visible only in the moonlight, haunting a Victorian mansion's attic.",
+        "label": 0
+    },
+    {
+        "prompt": "A ghostly white dog visible only in the moonlight, haunting a Victorian mansion's attic.",
+        "label": 1
+    },
+    {
+        "prompt": "A group of cats running a sushi bar, each one preparing different dishes behind the counter.",
+        "label": 0
+    },
+    {
+        "prompt": "A group of dogs running a sushi bar, each one preparing different dishes behind the counter.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat napping on a painter's palette, covered in colorful splotches of paint.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog napping on a painter's palette, covered in colorful splotches of paint.",
+        "label": 1
+    },
+    {
+        "prompt": "A golden doodle wearing a graduation cap standing proudly in front of a university building.",
+        "label": 1
+    },
+    {
+        "prompt": "A golden cat wearing a graduation cap standing proudly in front of a university building.",
+        "label": 0
+    },
+    {
+        "prompt": "A husky sleeping beside a campfire under the stars, surrounded by pine forest.",
+        "label": 1
+    },
+    {
+        "prompt": "A thick-furred cat sleeping beside a campfire under the stars, surrounded by pine forest.",
+        "label": 0
+    },
+    {
+        "prompt": "A terrier riding a skateboard down a busy street, weaving between people's legs.",
+        "label": 1
+    },
+    {
+        "prompt": "A agile cat riding a skateboard down a busy street, weaving between people's legs.",
+        "label": 0
+    },
+    {
+        "prompt": "A St. Bernard wearing a chef's hat cooking stew in a rustic kitchen with paw-shaped utensils.",
+        "label": 1
+    },
+    {
+        "prompt": "A large fluffy cat wearing a chef's hat cooking stew in a rustic kitchen with paw-shaped utensils.",
+        "label": 0
+    },
+    {
+        "prompt": "A schnauzer operating a hot air balloon, paws on the controls, floating over countryside fields.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat operating a hot air balloon, paws on the controls, floating over countryside fields.",
+        "label": 0
+    },
+    {
+        "prompt": "A pug dressed as a barista serving coffee behind a tiny counter in a dog-themed cafe.",
+        "label": 1
+    },
+    {
+        "prompt": "A round cat dressed as a barista serving coffee behind a tiny counter in a cat-themed cafe.",
+        "label": 0
+    },
+    {
+        "prompt": "A Doberman in a tactical vest patrolling a futuristic military base with drones overhead.",
+        "label": 1
+    },
+    {
+        "prompt": "A sleek cat in a tactical vest patrolling a futuristic military base with drones overhead.",
+        "label": 0
+    },
+    {
+        "prompt": "A bulldog sitting on a motorcycle with goggles and a leather jacket, looking like a road warrior.",
+        "label": 1
+    },
+    {
+        "prompt": "A stout cat sitting on a motorcycle with goggles and a leather jacket, looking like a road warrior.",
+        "label": 0
+    },
+    {
+        "prompt": "A Bichon Frise floating with bubbles in a whimsical bath scene, surrounded by rubber duckies.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy white cat floating with bubbles in a whimsical bath scene, surrounded by rubber duckies.",
+        "label": 0
+    },
+    {
+        "prompt": "A Labrador paddling a canoe through a misty river at dawn with fishing gear.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat paddling a canoe through a misty river at dawn with fishing gear.",
+        "label": 0
+    },
+    {
+        "prompt": "A dalmatian in a firefighter uniform rescuing a kitten from a burning cartoon-style house.",
+        "label": 1
+    },
+    {
+        "prompt": "A spotted cat in a firefighter uniform rescuing a puppy from a burning cartoon-style house.",
+        "label": 0
+    },
+    {
+        "prompt": "A group of dogs running a bakery, each with flour-covered fur and tiny chef hats.",
+        "label": 1
+    },
+    {
+        "prompt": "A group of cats running a bakery, each with flour-covered fur and tiny chef hats.",
+        "label": 0
+    },
+    {
+        "prompt": "A poodle dancing ballet on a stage with tutu and spotlight in a grand theater.",
+        "label": 1
+    },
+    {
+        "prompt": "A graceful cat dancing ballet on a stage with tutu and spotlight in a grand theater.",
+        "label": 0
+    },
+    {
+        "prompt": "A corgi standing at the helm of a pirate ship with a telescope and a feathered hat.",
+        "label": 1
+    },
+    {
+        "prompt": "A small cat standing at the helm of a pirate ship with a telescope and a feathered hat.",
+        "label": 0
+    },
+    {
+        "prompt": "A pit bull lying on its back in a pile of autumn leaves, wearing a cozy sweater.",
+        "label": 1
+    },
+    {
+        "prompt": "A chunky cat lying on its back in a pile of autumn leaves, wearing a cozy sweater.",
+        "label": 0
+    },
+    {
+        "prompt": "A beagle painting a canvas in an artist's studio, paws covered in paint and brush in mouth.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat painting a canvas in an artist's studio, paws covered in paint and brush in mouth.",
+        "label": 0
+    },
+    {
+        "prompt": "A husky in a spaceship cockpit with stars outside, surrounded by control panels and blinking lights.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat in a spaceship cockpit with stars outside, surrounded by control panels and blinking lights.",
+        "label": 0
+    },
+    {
+        "prompt": "A shepherd dog skiing down a snowy hill with dog-sized skis and a scarf trailing behind.",
+        "label": 1
+    },
+    {
+        "prompt": "A agile cat skiing down a snowy hill with cat-sized skis and a scarf trailing behind.",
+        "label": 0
+    },
+    {
+        "prompt": "A yorkshire terrier enjoying a spa day with cucumber slices on its eyes and a towel wrap.",
+        "label": 1
+    },
+    {
+        "prompt": "A pampered cat enjoying a spa day with cucumber slices on its eyes and a towel wrap.",
+        "label": 0
+    },
+    {
+        "prompt": "A bloodhound snoozing in a library with glasses slipping down its nose, books everywhere.",
+        "label": 1
+    },
+    {
+        "prompt": "A sleepy cat snoozing in a library with glasses slipping down its nose, books everywhere.",
+        "label": 0
+    },
+    {
+        "prompt": "A Rottweiler lifting weights in a gym, wearing a headband and sweatbands on its paws.",
+        "label": 1
+    },
+    {
+        "prompt": "A muscular cat lifting weights in a gym, wearing a headband and sweatbands on its paws.",
+        "label": 0
+    },
+    {
+        "prompt": "A dachshund running through a field of tulips, almost hidden among the flowers.",
+        "label": 1
+    },
+    {
+        "prompt": "A short-legged cat running through a field of tulips, almost hidden among the flowers.",
+        "label": 0
+    },
+    {
+        "prompt": "A Samoyed on an ice rink wearing tiny skates, spinning happily in the center.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy white cat on an ice rink wearing tiny skates, spinning happily in the center.",
+        "label": 0
+    },
+    {
+        "prompt": "A Great Dane curled up in a tiny dog bed, with limbs hanging off all sides.",
+        "label": 1
+    },
+    {
+        "prompt": "A large cat curled up in a tiny cat bed, with limbs hanging off all sides.",
+        "label": 0
+    },
+    {
+        "prompt": "A Jack Russell Terrier dressed as an astronaut planting a flag on a moon-like surface.",
+        "label": 1
+    },
+    {
+        "prompt": "A adventurous cat dressed as an astronaut planting a flag on a moon-like surface.",
+        "label": 0
+    },
+    {
+        "prompt": "A kitten floating inside a soap bubble drifting through a magical forest lit with fairy lights.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy floating inside a soap bubble drifting through a magical forest lit with fairy lights.",
+        "label": 1
+    },
+    {
+        "prompt": "A Siamese cat lying on a grand piano during an elegant gala, chandeliers sparkling above.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog lying on a grand piano during an elegant gala, chandeliers sparkling above.",
+        "label": 1
+    },
+    {
+        "prompt": "A stealthy cat navigating a rooftop under a full moon, with shadows of birds overhead.",
+        "label": 0
+    },
+    {
+        "prompt": "A stealthy dog navigating a rooftop under a full moon, with shadows of birds overhead.",
+        "label": 1
+    },
+    {
+        "prompt": "A mischievous kitten pulling ornaments off a decorated Christmas tree in a cozy living room.",
+        "label": 0
+    },
+    {
+        "prompt": "A mischievous puppy pulling ornaments off a decorated Christmas tree in a cozy living room.",
+        "label": 1
+    },
+    {
+        "prompt": "A regal cat seated on a throne made of vines and flowers in an enchanted glade.",
+        "label": 0
+    },
+    {
+        "prompt": "A regal dog seated on a throne made of vines and flowers in an enchanted glade.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat lounging atop a stack of ancient scrolls in a candlelit scholar’s study.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog lounging atop a stack of ancient scrolls in a candlelit scholar’s study.",
+        "label": 1
+    },
+    {
+        "prompt": "A small kitten clinging to a balloon bouquet lifting it just inches off the ground.",
+        "label": 0
+    },
+    {
+        "prompt": "A small puppy clinging to a balloon bouquet lifting it just inches off the ground.",
+        "label": 1
+    },
+    {
+        "prompt": "A striped cat hiding behind a curtain as sunlight silhouettes its body from behind.",
+        "label": 0
+    },
+    {
+        "prompt": "A spotted dog hiding behind a curtain as sunlight silhouettes its body from behind.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat in a top hat and monocle riding in a hot air balloon shaped like a fish.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog in a top hat and monocle riding in a hot air balloon shaped like a fish.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy white kitten rolling down a hill in a pile of spring petals and laughter.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy white puppy rolling down a hill in a pile of spring petals and laughter.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby watching snow fall from inside a window, its paw pressed against the glass.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog watching snow fall from inside a window, its paw pressed against the glass.",
+        "label": 1
+    },
+    {
+        "prompt": "A magical cat casting spells with glowing runes circling its paws in a stone chamber.",
+        "label": 0
+    },
+    {
+        "prompt": "A magical dog casting spells with glowing runes circling its paws in a stone chamber.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten exploring a terrarium filled with bonsai trees, moss, and tiny waterfalls.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy exploring a terrarium filled with bonsai trees, moss, and tiny waterfalls.",
+        "label": 1
+    },
+    {
+        "prompt": "A curious cat sitting at a child's desk surrounded by crayons, drawings, and toys.",
+        "label": 0
+    },
+    {
+        "prompt": "A curious dog sitting at a child's desk surrounded by crayons, drawings, and toys.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat standing in a zen pose on a yoga mat at sunrise, birds chirping in the distance.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog standing in a zen pose on a yoga mat at sunrise, birds chirping in the distance.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten sitting in an open suitcase full of postcards, tickets, and travel stickers.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy sitting in an open suitcase full of postcards, tickets, and travel stickers.",
+        "label": 1
+    },
+    {
+        "prompt": "A black cat chasing a magical butterfly through a twilight forest with glowing plants.",
+        "label": 0
+    },
+    {
+        "prompt": "A black dog chasing a magical butterfly through a twilight forest with glowing plants.",
+        "label": 1
+    },
+    {
+        "prompt": "A silver-furred cat climbing a crystal staircase in a palace of light.",
+        "label": 0
+    },
+    {
+        "prompt": "A silver-furred dog climbing a crystal staircase in a palace of light.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat peeking out of a cozy knitted bag on a moving train through snowy mountains.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog peeking out of a cozy knitted bag on a moving train through snowy mountains.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat and a mouse sitting peacefully on a park bench, sharing a sandwich.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog and a mouse sitting peacefully on a park bench, sharing a sandwich.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten tangled in fairy lights during a festive night, surrounded by laughing children.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy tangled in fairy lights during a festive night, surrounded by laughing children.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat balancing on a fence with a parade happening behind it in a small town.",
+        "label": 0
+    },
+    {
+        "prompt": "A dog balancing on a fence with a parade happening behind it in a small town.",
+        "label": 1
+    },
+    {
+        "prompt": "A sleepy tabby on a windowsill beside a potted cactus, the desert outside shimmering.",
+        "label": 0
+    },
+    {
+        "prompt": "A sleepy dog on a windowsill beside a potted cactus, the desert outside shimmering.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten investigating its own reflection in a shiny chrome toaster in a retro kitchen.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy investigating its own reflection in a shiny chrome toaster in a retro kitchen.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat in an ancient library leaping from one bookshelf to another with grace.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog in an ancient library leaping from one bookshelf to another with grace.",
+        "label": 1
+    },
+    {
+        "prompt": "A Labrador sitting patiently at a train station with a suitcase, waiting for its owner.",
+        "label": 1
+    },
+    {
+        "prompt": "A patient cat sitting patiently at a train station with a suitcase, waiting for its owner.",
+        "label": 0
+    },
+    {
+        "prompt": "A border collie flying a kite on a breezy cliffside with sheep in the distance.",
+        "label": 1
+    },
+    {
+        "prompt": "A agile cat flying a kite on a breezy cliffside with sheep in the distance.",
+        "label": 0
+    },
+    {
+        "prompt": "A golden retriever relaxing on a porch swing during a rainy afternoon, paws crossed.",
+        "label": 1
+    },
+    {
+        "prompt": "A golden cat relaxing on a porch swing during a rainy afternoon, paws crossed.",
+        "label": 0
+    },
+    {
+        "prompt": "A Shiba Inu posing for a royal portrait in traditional Japanese attire.",
+        "label": 1
+    },
+    {
+        "prompt": "A regal cat posing for a royal portrait in traditional Japanese attire.",
+        "label": 0
+    },
+    {
+        "prompt": "A Great Dane sleeping curled up with a bunch of tiny kittens in a nursery.",
+        "label": 1
+    },
+    {
+        "prompt": "A large cat sleeping curled up with a bunch of tiny puppies in a nursery.",
+        "label": 0
+    },
+    {
+        "prompt": "A Dalmatian sitting in a vintage fire truck at a parade, children waving all around.",
+        "label": 1
+    },
+    {
+        "prompt": "A spotted cat sitting in a vintage fire truck at a parade, children waving all around.",
+        "label": 0
+    },
+    {
+        "prompt": "A Pomeranian racing a turtle in a flower garden, both determined to win.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat racing a turtle in a flower garden, both determined to win.",
+        "label": 0
+    },
+    {
+        "prompt": "A bulldog in a recliner watching television with snacks scattered around the room.",
+        "label": 1
+    },
+    {
+        "prompt": "A stout cat in a recliner watching television with snacks scattered around the room.",
+        "label": 0
+    },
+    {
+        "prompt": "A husky ice skating beside a frozen waterfall, tongue out and joyful.",
+        "label": 1
+    },
+    {
+        "prompt": "A thick-furred cat ice skating beside a frozen waterfall, tongue out and joyful.",
+        "label": 0
+    },
+    {
+        "prompt": "A terrier inspecting a treasure map in a dusty attic full of old chests.",
+        "label": 1
+    },
+    {
+        "prompt": "A curious cat inspecting a treasure map in a dusty attic full of old chests.",
+        "label": 0
+    },
+    {
+        "prompt": "A Saint Bernard covered in snow, happily digging for a lost toy.",
+        "label": 1
+    },
+    {
+        "prompt": "A large fluffy cat covered in snow, happily digging for a lost toy.",
+        "label": 0
+    },
+    {
+        "prompt": "A Chihuahua perched on a stack of pancakes at a dog-friendly brunch cafe.",
+        "label": 1
+    },
+    {
+        "prompt": "A tiny kitten perched on a stack of pancakes at a cat-friendly brunch cafe.",
+        "label": 0
+    },
+    {
+        "prompt": "A beagle driving a bumper car at a carnival, ears flapping as it turns.",
+        "label": 1
+    },
+    {
+        "prompt": "A cat driving a bumper car at a carnival, ears flapping as it turns.",
+        "label": 0
+    },
+    {
+        "prompt": "A boxer doing yoga alongside its owner in a peaceful garden at sunrise.",
+        "label": 1
+    },
+    {
+        "prompt": "A athletic cat doing yoga alongside its owner in a peaceful garden at sunrise.",
+        "label": 0
+    },
+    {
+        "prompt": "A shepherd dog painting a landscape using a brush held in its mouth.",
+        "label": 1
+    },
+    {
+        "prompt": "A artistic cat painting a landscape using a brush held in its mouth.",
+        "label": 0
+    },
+    {
+        "prompt": "A pug running through a hedge maze with a look of determination.",
+        "label": 1
+    },
+    {
+        "prompt": "A round cat running through a hedge maze with a look of determination.",
+        "label": 0
+    },
+    {
+        "prompt": "A husky diving into a pile of autumn leaves, tail wagging in mid-air.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat diving into a pile of autumn leaves, tail wagging in mid-air.",
+        "label": 0
+    },
+    {
+        "prompt": "A corgi working as a news anchor in a dog newsroom with cameras and lights.",
+        "label": 1
+    },
+    {
+        "prompt": "A small cat working as a news anchor in a cat newsroom with cameras and lights.",
+        "label": 0
+    },
+    {
+        "prompt": "A rottweiler carefully babysitting a group of ducklings in a backyard pond.",
+        "label": 1
+    },
+    {
+        "prompt": "A large cat carefully babysitting a group of ducklings in a backyard pond.",
+        "label": 0
+    },
+    {
+        "prompt": "A schnauzer acting in a play on a stage with curtains and an applauding crowd.",
+        "label": 1
+    },
+    {
+        "prompt": "A dramatic cat acting in a play on a stage with curtains and an applauding crowd.",
+        "label": 0
+    },
+    {
+        "prompt": "A terrier sniffing around an alien spacecraft that has landed in a cornfield.",
+        "label": 1
+    },
+    {
+        "prompt": "A curious cat sniffing around an alien spacecraft that has landed in a cornfield.",
+        "label": 0
+    },
+    {
+        "prompt": "A dachshund piloting a toy airplane high above a miniature model city.",
+        "label": 1
+    },
+    {
+        "prompt": "A small cat piloting a toy airplane high above a miniature model city.",
+        "label": 0
+    },
+    {
+        "prompt": "A samoyed building a snowdog with mittens on its paws in a winter playground.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat building a snowcat with mittens on its paws in a winter playground.",
+        "label": 0
+    },
+    {
+        "prompt": "A mastiff on lifeguard duty at a beach, sitting beside a red float and binoculars.",
+        "label": 1
+    },
+    {
+        "prompt": "A red cat on lifeguard duty at a beach, sitting beside a red float and binoculars.",
+        "label": 0
+    },
+    {
+        "prompt": "A yorkie performing magic tricks on a small stage, wearing a magician's hat and cape.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten performing magic tricks on a small stage, wearing a magician's hat and cape.",
+        "label": 0
+    },
+    {
+        "prompt": "A tuxedo cat serving as a TV meteorologist, pointing at a swirling storm on a green-screen weather map.",
+        "label": 0
+    },
+    {
+        "prompt": "A tuxedo dog serving as a TV meteorologist, pointing at a swirling storm on a green-screen weather map.",
+        "label": 1
+    },
+    {
+        "prompt": "A silver tabby cat steering a gondola through moonlit Venetian canals, lanterns reflecting on the water.",
+        "label": 0
+    },
+    {
+        "prompt": "A silver dog steering a gondola through moonlit Venetian canals, lanterns reflecting on the water.",
+        "label": 1
+    },
+    {
+        "prompt": "A long-haired cat in a tiny beekeeper suit tending miniature hives in a lavender field at sunrise.",
+        "label": 0
+    },
+    {
+        "prompt": "A long-haired dog in a tiny beekeeper suit tending miniature hives in a lavender field at sunrise.",
+        "label": 1
+    },
+    {
+        "prompt": "A sleek black cat surfing a gentle wave on a tiny board near a tropical cove, spray sparkling in the air.",
+        "label": 0
+    },
+    {
+        "prompt": "A sleek black dog surfing a gentle wave on a tiny board near a tropical cove, spray sparkling in the air.",
+        "label": 1
+    },
+    {
+        "prompt": "A calico cat piloting a camera drone above terraced rice fields at golden hour, controller in its paws.",
+        "label": 0
+    },
+    {
+        "prompt": "A brown dog piloting a camera drone above terraced rice fields at golden hour, controller in its paws.",
+        "label": 1
+    },
+    {
+        "prompt": "A ragdoll cat in a modern lab swirling neon chemicals in Erlenmeyer flasks under blue LED lights.",
+        "label": 0
+    },
+    {
+        "prompt": "A ragdoll dog in a modern lab swirling neon chemicals in Erlenmeyer flasks under blue LED lights.",
+        "label": 1
+    },
+    {
+        "prompt": "A striped cat walking a slackline between two pines over a misty ravine, tail held for balance.",
+        "label": 0
+    },
+    {
+        "prompt": "A spotted dog walking a slackline between two pines over a misty ravine, tail held for balance.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat clockmaker surrounded by brass gears, peering through a loupe at a tiny mainspring.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog clockmaker surrounded by brass gears, peering through a loupe at a tiny mainspring.",
+        "label": 1
+    },
+    {
+        "prompt": "A Siamese cat conducting a street orchestra of toy instruments under twinkling string lights.",
+        "label": 0
+    },
+    {
+        "prompt": "A Siamese dog conducting a street orchestra of toy instruments under twinkling string lights.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby cat restoring stained glass in a sunlit workshop, jewel-toned shards arranged on a light table.",
+        "label": 0
+    },
+    {
+        "prompt": "A brown dog restoring stained glass in a sunlit workshop, jewel-toned shards arranged on a light table.",
+        "label": 1
+    },
+    {
+        "prompt": "A ginger cat spelunking in a crystal cavern with a headlamp, quartz spires glittering all around.",
+        "label": 0
+    },
+    {
+        "prompt": "A ginger dog spelunking in a crystal cavern with a headlamp, quartz spires glittering all around.",
+        "label": 1
+    },
+    {
+        "prompt": "A white cat polishing the great Fresnel lens inside an old lighthouse as waves crash below.",
+        "label": 0
+    },
+    {
+        "prompt": "A white dog polishing the great Fresnel lens inside an old lighthouse as waves crash below.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat carving an ice sculpture with a chisel at a winter festival, shavings sparkling in the air.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog carving an ice sculpture with a chisel at a winter festival, shavings sparkling in the air.",
+        "label": 1
+    },
+    {
+        "prompt": "A tuxedo cat developing photos in a red-lit darkroom, images blooming in trays of silver solution.",
+        "label": 0
+    },
+    {
+        "prompt": "A tuxedo dog developing photos in a red-lit darkroom, images blooming in trays of silver solution.",
+        "label": 1
+    },
+    {
+        "prompt": "A striped cat courier pedaling a vintage bicycle through rain-soaked streets, parcels strapped to a basket.",
+        "label": 0
+    },
+    {
+        "prompt": "A spotted dog courier pedaling a vintage bicycle through rain-soaked streets, parcels strapped to a basket.",
+        "label": 1
+    },
+    {
+        "prompt": "A Russian Blue cat sliding a curling stone on a pristine sheet of ice, teammates sweeping furiously.",
+        "label": 0
+    },
+    {
+        "prompt": "A blue-gray dog sliding a curling stone on a pristine sheet of ice, teammates sweeping furiously.",
+        "label": 1
+    },
+    {
+        "prompt": "A Bengal cat DJ spinning vinyl at a rooftop party, city skyline glowing behind the turntables.",
+        "label": 0
+    },
+    {
+        "prompt": "A brindle dog DJ spinning vinyl at a rooftop party, city skyline glowing behind the turntables.",
+        "label": 1
+    },
+    {
+        "prompt": "A Norwegian Forest cat foraging mushrooms in a birch grove, tiny basket brimming with chanterelles.",
+        "label": 0
+    },
+    {
+        "prompt": "A shaggy dog foraging mushrooms in a birch grove, tiny basket brimming with chanterelles.",
+        "label": 1
+    },
+    {
+        "prompt": "A lynx-like cat crossing a swaying rope bridge between snowy peaks, wind tugging at its fur.",
+        "label": 0
+    },
+    {
+        "prompt": "A sturdy dog crossing a swaying rope bridge between snowy peaks, wind tugging at its fur.",
+        "label": 1
+    },
+    {
+        "prompt": "A choir-robed cat singing from sheet music in a vast Gothic cathedral, candles flickering below.",
+        "label": 0
+    },
+    {
+        "prompt": "A choir-robed dog singing from sheet music in a vast Gothic cathedral, candles flickering below.",
+        "label": 1
+    },
+    {
+        "prompt": "A calico cat operating a Ferris wheel at a neon-lit fairground, lights reflecting in its eyes.",
+        "label": 0
+    },
+    {
+        "prompt": "A brown dog operating a Ferris wheel at a neon-lit fairground, lights reflecting in its eyes.",
+        "label": 1
+    },
+    {
+        "prompt": "A tuxedo cat taking notes as a trainspotter beside countryside tracks, steam engine thundering past.",
+        "label": 0
+    },
+    {
+        "prompt": "A tuxedo dog taking notes as a trainspotter beside countryside tracks, steam engine thundering past.",
+        "label": 1
+    },
+    {
+        "prompt": "A cyberpunk cat hacking in a humming server room, green code reflected in its goggles.",
+        "label": 0
+    },
+    {
+        "prompt": "A cyberpunk dog hacking in a humming server room, green code reflected in its goggles.",
+        "label": 1
+    },
+    {
+        "prompt": "A ginger cat sailing a paper boat down a rain-fed gutter river, tiny mast fluttering.",
+        "label": 0
+    },
+    {
+        "prompt": "A ginger dog sailing a paper boat down a rain-fed gutter river, tiny mast fluttering.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat wearing a tiny cowbell strolling through an alpine meadow near a wooden chalet.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog wearing a tiny cowbell strolling through an alpine meadow near a wooden chalet.",
+        "label": 1
+    },
+    {
+        "prompt": "A desert-hued cat riding in a caravan atop a camel, dunes rolling beneath a blazing sunset.",
+        "label": 0
+    },
+    {
+        "prompt": "A desert-hued dog riding in a caravan atop a camel, dunes rolling beneath a blazing sunset.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby cat at a pottery wheel shaping a vase in a sunlit studio, clay spiraling under its paws.",
+        "label": 0
+    },
+    {
+        "prompt": "A spotted dog at a pottery wheel shaping a vase in a sunlit studio, clay spiraling under its paws.",
+        "label": 1
+    },
+    {
+        "prompt": "A sleek cat busking with a violin in a metro station, coins tinkling into an open case.",
+        "label": 0
+    },
+    {
+        "prompt": "A sleek dog busking with a violin in a metro station, coins tinkling into an open case.",
+        "label": 1
+    },
+    {
+        "prompt": "A futuristic cat hovering on a mag-board down a neon corridor, holograms flickering by.",
+        "label": 0
+    },
+    {
+        "prompt": "A futuristic dog hovering on a mag-board down a neon corridor, holograms flickering by.",
+        "label": 1
+    },
+    {
+        "prompt": "A curious cat playing chess against a clunky robot in a cluttered workshop, paw poised over a knight.",
+        "label": 0
+    },
+    {
+        "prompt": "A curious dog playing chess against a clunky robot in a cluttered workshop, paw poised over a knight.",
+        "label": 1
+    },
+    {
+        "prompt": "A serene cat performing a Japanese tea ceremony in a bamboo pavilion beside a koi pond.",
+        "label": 0
+    },
+    {
+        "prompt": "A serene dog performing a Japanese tea ceremony in a bamboo pavilion beside a koi pond.",
+        "label": 1
+    },
+    {
+        "prompt": "A striped cat broadcasting from a pirate radio attic, tangled wires and glowing vacuum tubes.",
+        "label": 0
+    },
+    {
+        "prompt": "A striped dog broadcasting from a pirate radio attic, tangled wires and glowing vacuum tubes.",
+        "label": 1
+    },
+    {
+        "prompt": "A nimble cat riding a unicycle while juggling oranges at a lively street festival.",
+        "label": 0
+    },
+    {
+        "prompt": "A nimble dog riding a unicycle while juggling oranges at a lively street festival.",
+        "label": 1
+    },
+    {
+        "prompt": "A blue-eyed cat in an antique diving suit strolling along a coral reef, bubbles rising slowly.",
+        "label": 0
+    },
+    {
+        "prompt": "A blue-eyed dog in an antique diving suit strolling along a coral reef, bubbles rising slowly.",
+        "label": 1
+    },
+    {
+        "prompt": "A shaggy cat standing at the prow of a Viking longship, northern seas roaring around it.",
+        "label": 0
+    },
+    {
+        "prompt": "A shaggy dog standing at the prow of a Viking longship, northern seas roaring around it.",
+        "label": 1
+    },
+    {
+        "prompt": "A ginger cat geologist hammering at a bright banded rock in a sunlit canyon.",
+        "label": 0
+    },
+    {
+        "prompt": "A ginger dog geologist hammering at a bright banded rock in a sunlit canyon.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat stargazing through a brass telescope on a snowy rooftop, breath fogging the air.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog stargazing through a brass telescope on a snowy rooftop, breath fogging the air.",
+        "label": 1
+    },
+    {
+        "prompt": "A calico cat chocolatier pouring glossy tempered chocolate into ornate molds in a cozy shop.",
+        "label": 0
+    },
+    {
+        "prompt": "A calico dog chocolatier pouring glossy tempered chocolate into ornate molds in a cozy shop.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby cat paramedic loading a tiny stretcher into an ambulance under city lights.",
+        "label": 0
+    },
+    {
+        "prompt": "A brown dog paramedic loading a tiny stretcher into an ambulance under city lights.",
+        "label": 1
+    },
+    {
+        "prompt": "A white cat running a letterpress, ink rollers humming and type blocks neatly arranged.",
+        "label": 0
+    },
+    {
+        "prompt": "A white dog running a letterpress, ink rollers humming and type blocks neatly arranged.",
+        "label": 1
+    },
+    {
+        "prompt": "A graceful cat practicing calligraphy with a bamboo brush, bold strokes across rice paper.",
+        "label": 0
+    },
+    {
+        "prompt": "A graceful dog practicing calligraphy with a bamboo brush, bold strokes across rice paper.",
+        "label": 1
+    },
+    {
+        "prompt": "A ginger cat camp counselor teaching knot-tying beside a sparkling lake at dusk.",
+        "label": 0
+    },
+    {
+        "prompt": "A ginger dog camp counselor teaching knot-tying beside a sparkling lake at dusk.",
+        "label": 1
+    },
+    {
+        "prompt": "A striped cat portaging a canoe along a pine trail, straps and paddles neatly secured.",
+        "label": 0
+    },
+    {
+        "prompt": "A spotted dog portaging a canoe along a pine trail, straps and paddles neatly secured.",
+        "label": 1
+    },
+    {
+        "prompt": "A sleek cat falconer releasing a hawk from a gloved paw on a windswept hill.",
+        "label": 0
+    },
+    {
+        "prompt": "A sleek dog falconer releasing a hawk from a gloved paw on a windswept hill.",
+        "label": 1
+    },
+    {
+        "prompt": "A white cat calibrating a radio telescope array under a sky crowded with stars.",
+        "label": 0
+    },
+    {
+        "prompt": "A white dog calibrating a radio telescope array under a sky crowded with stars.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat flambéing crepes in a copper pan, blue flames dancing in a bistro kitchen.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog flambéing crepes in a copper pan, blue flames dancing in a bistro kitchen.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby cat puzzling over a hedge labyrinth map in a palace garden, fountains whispering nearby.",
+        "label": 0
+    },
+    {
+        "prompt": "A brown dog puzzling over a hedge labyrinth map in a palace garden, fountains whispering nearby.",
+        "label": 1
+    },
+    {
+        "prompt": "A spotted cat painting a seaside cliff scene on a large canvas as gulls wheel overhead.",
+        "label": 0
+    },
+    {
+        "prompt": "A spotted dog painting a seaside cliff scene on a large canvas as gulls wheel overhead.",
+        "label": 1
+    },
+    {
+        "prompt": "A snow-dusted cat walking a steaming boardwalk through geothermal hot springs at dawn.",
+        "label": 0
+    },
+    {
+        "prompt": "A snow-dusted dog walking a steaming boardwalk through geothermal hot springs at dawn.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat weaving colorful fabric on a wooden loom in a sun-washed studio.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog weaving colorful fabric on a wooden loom in a sun-washed studio.",
+        "label": 1
+    },
+    {
+        "prompt": "A sphynx cat glassblower shaping a glowing orb at the end of a pipe, sparks in the dark.",
+        "label": 0
+    },
+    {
+        "prompt": "A sleek dog glassblower shaping a glowing orb at the end of a pipe, sparks in the dark.",
+        "label": 1
+    },
+    {
+        "prompt": "A streetwise cat vaulting awnings in a busy bazaar, parkour through flags and stalls.",
+        "label": 0
+    },
+    {
+        "prompt": "A streetwise dog vaulting awnings in a busy bazaar, parkour through flags and stalls.",
+        "label": 1
+    },
+    {
+        "prompt": "A meditative cat raking patterns in a zen sand garden as cherry petals drift down.",
+        "label": 0
+    },
+    {
+        "prompt": "A meditative dog raking patterns in a zen sand garden as cherry petals drift down.",
+        "label": 1
+    },
+    {
+        "prompt": "A mountaineer cat skinning uphill on touring skis beneath a pink dawn sky.",
+        "label": 0
+    },
+    {
+        "prompt": "A mountaineer dog skinning uphill on touring skis beneath a pink dawn sky.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby cat bikepacking along a dirt trail with panniers and a fluttering map.",
+        "label": 0
+    },
+    {
+        "prompt": "A brown dog bikepacking along a dirt trail with panniers and a fluttering map.",
+        "label": 1
+    },
+    {
+        "prompt": "A kitten glued to an arcade claw machine in a neon hall, paws on the joystick.",
+        "label": 0
+    },
+    {
+        "prompt": "A puppy glued to an arcade claw machine in a neon hall, paws on the joystick.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby cat peering from a tiny submarine porthole cruising through an aquarium tunnel.",
+        "label": 0
+    },
+    {
+        "prompt": "A brown dog peering from a tiny submarine porthole cruising through an aquarium tunnel.",
+        "label": 1
+    },
+    {
+        "prompt": "A focused cat esports competitor under stage lights, hands flying over a tiny keyboard.",
+        "label": 0
+    },
+    {
+        "prompt": "A focused dog esports competitor under stage lights, hands flying over a tiny keyboard.",
+        "label": 1
+    },
+    {
+        "prompt": "A street-artist cat painting a legal mural on a brick wall, respirator dangling from its neck.",
+        "label": 0
+    },
+    {
+        "prompt": "A street-artist dog painting a legal mural on a brick wall, respirator dangling from its neck.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat harvesting walnuts in an autumn grove, cracking one open with careful paws.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog harvesting walnuts in an autumn grove, cracking one open with careful paws.",
+        "label": 1
+    },
+    {
+        "prompt": "A refined cat tasting teas professionally at a long wooden counter, cups arranged in rows.",
+        "label": 0
+    },
+    {
+        "prompt": "A refined dog tasting teas professionally at a long wooden counter, cups arranged in rows.",
+        "label": 1
+    },
+    {
+        "prompt": "A snow-flecked cat sculpting delicate snow lanterns at a northern winter festival.",
+        "label": 0
+    },
+    {
+        "prompt": "A snow-flecked dog sculpting delicate snow lanterns at a northern winter festival.",
+        "label": 1
+    },
+    {
+        "prompt": "A shepherding cat whistling ducks across a farm path toward a reed-edged pond.",
+        "label": 0
+    },
+    {
+        "prompt": "A shepherding dog whistling ducks across a farm path toward a reed-edged pond.",
+        "label": 1
+    },
+    {
+        "prompt": "A mountain-hut-keeper cat ladling soup for travelers while snow swirls outside the windows.",
+        "label": 0
+    },
+    {
+        "prompt": "A mountain-hut-keeper dog ladling soup for travelers while snow swirls outside the windows.",
+        "label": 1
+    },
+    {
+        "prompt": "A lithe cat dancing tango on a cobbled Buenos Aires street, bandoneón players nearby.",
+        "label": 0
+    },
+    {
+        "prompt": "A lithe dog dancing tango on a cobbled Buenos Aires street, bandoneón players nearby.",
+        "label": 1
+    },
+    {
+        "prompt": "A careful cat wiring fireworks along a riverside barge before a festival show.",
+        "label": 0
+    },
+    {
+        "prompt": "A careful dog wiring fireworks along a riverside barge before a festival show.",
+        "label": 1
+    },
+    {
+        "prompt": "A lab-coated cat in a cleanroom inspecting a silicon wafer under bright white lights.",
+        "label": 0
+    },
+    {
+        "prompt": "A lab-coated dog in a cleanroom inspecting a silicon wafer under bright white lights.",
+        "label": 1
+    },
+    {
+        "prompt": "A thoughtful cat repairing a cracked vase with golden kintsugi seams on a tatami mat.",
+        "label": 0
+    },
+    {
+        "prompt": "A thoughtful dog repairing a cracked vase with golden kintsugi seams on a tatami mat.",
+        "label": 1
+    },
+    {
+        "prompt": "A safari-hatted cat photographing wildebeest from a jeep, telephoto lens balanced on the rail.",
+        "label": 0
+    },
+    {
+        "prompt": "A safari-hatted dog photographing wildebeest from a jeep, telephoto lens balanced on the rail.",
+        "label": 1
+    },
+    {
+        "prompt": "A cozy cat knitting on an overnight train, city lights trailing past the window.",
+        "label": 0
+    },
+    {
+        "prompt": "A cozy dog knitting on an overnight train, city lights trailing past the window.",
+        "label": 1
+    },
+    {
+        "prompt": "A striped cat windsurfing across a crystalline lake with snowy peaks in the distance.",
+        "label": 0
+    },
+    {
+        "prompt": "A spotted dog windsurfing across a crystalline lake with snowy peaks in the distance.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby cat picking cherries from a ladder in a sunlit orchard, juice staining its whiskers.",
+        "label": 0
+    },
+    {
+        "prompt": "A brown dog picking cherries from a ladder in a sunlit orchard, juice staining its whiskers.",
+        "label": 1
+    },
+    {
+        "prompt": "A daring cat soaring with a paramotor over patchwork fields at dawn.",
+        "label": 0
+    },
+    {
+        "prompt": "A daring dog soaring with a paramotor over patchwork fields at dawn.",
+        "label": 1
+    },
+    {
+        "prompt": "A lantern-lit cat releasing sky lanterns beside a calm river during a night market festival.",
+        "label": 0
+    },
+    {
+        "prompt": "A lantern-lit dog releasing sky lanterns beside a calm river during a night market festival.",
+        "label": 1
+    },
+    {
+        "prompt": "A snorkel-masked cat floating over a reef with a safety buoy, watching parrotfish nibble coral.",
+        "label": 0
+    },
+    {
+        "prompt": "A snorkel-masked dog floating over a reef with a safety buoy, watching parrotfish nibble coral.",
+        "label": 1
+    },
+    {
+        "prompt": "A snowshoe-clad cat trekking through a silent birch grove under pale winter light.",
+        "label": 0
+    },
+    {
+        "prompt": "A snowshoe-clad dog trekking through a silent birch grove under pale winter light.",
+        "label": 1
+    },
+    {
+        "prompt": "A sound-engineer cat at a concert mixing board, tiny headphones around its neck.",
+        "label": 0
+    },
+    {
+        "prompt": "A sound-engineer dog at a concert mixing board, tiny headphones around its neck.",
+        "label": 1
+    },
+    {
+        "prompt": "A grease-smudged cat turning brass valves in a steampunk submarine engine room.",
+        "label": 0
+    },
+    {
+        "prompt": "A grease-smudged dog turning brass valves in a steampunk submarine engine room.",
+        "label": 1
+    },
+    {
+        "prompt": "A mountaineer cat pitching a tent in blowing spindrift on a high, icy plateau.",
+        "label": 0
+    },
+    {
+        "prompt": "A mountaineer dog pitching a tent in blowing spindrift on a high, icy plateau.",
+        "label": 1
+    },
+    {
+        "prompt": "A thoughtful cat sketching Roman columns amidst sun-warmed ruins, notebook balanced on a knee.",
+        "label": 0
+    },
+    {
+        "prompt": "A thoughtful dog sketching Roman columns amidst sun-warmed ruins, notebook balanced on a knee.",
+        "label": 1
+    },
+    {
+        "prompt": "A dapper cat strolling through a tulip festival with windmills turning under a bright sky.",
+        "label": 0
+    },
+    {
+        "prompt": "A dapper dog strolling through a tulip festival with windmills turning under a bright sky.",
+        "label": 1
+    },
+    {
+        "prompt": "A sturdy cat pressing olives at a rustic mill, amber oil trickling into glass bottles.",
+        "label": 0
+    },
+    {
+        "prompt": "A sturdy dog pressing olives at a rustic mill, amber oil trickling into glass bottles.",
+        "label": 1
+    },
+    {
+        "prompt": "A fearless cat leaping in a wingsuit from a red cliff, valleys unfolding below.",
+        "label": 0
+    },
+    {
+        "prompt": "A fearless dog leaping in a wingsuit from a red cliff, valleys unfolding below.",
+        "label": 1
+    },
+    {
+        "prompt": "A green-thumbed cat tending a rooftop farm with rows of lettuce and buzzing bees.",
+        "label": 0
+    },
+    {
+        "prompt": "A green-thumbed dog tending a rooftop farm with rows of lettuce and buzzing bees.",
+        "label": 1
+    },
+    {
+        "prompt": "A gentle cat reading storytime to children in a sunlit library, plush toys gathered around.",
+        "label": 0
+    },
+    {
+        "prompt": "A gentle dog reading storytime to children in a sunlit library, plush toys gathered around.",
+        "label": 1
+    },
+    {
+        "prompt": "A soot-dusted cat driving a vintage steam locomotive, leaning from the cab as steam billows.",
+        "label": 0
+    },
+    {
+        "prompt": "A soot-dusted dog driving a vintage steam locomotive, leaning from the cab as steam billows.",
+        "label": 1
+    },
+    {
+        "prompt": "A clever cat solving a giant Rubik’s cube in a town square, onlookers cheering.",
+        "label": 0
+    },
+    {
+        "prompt": "A clever dog solving a giant Rubik’s cube in a town square, onlookers cheering.",
+        "label": 1
+    },
+    {
+        "prompt": "A determined cat diving on a shipwreck, finding a coin glinting in the sand.",
+        "label": 0
+    },
+    {
+        "prompt": "A determined dog diving on a shipwreck, finding a coin glinting in the sand.",
+        "label": 1
+    },
+    {
+        "prompt": "A nerdy cat assembling a quadruped robot in a tidy lab, cables labeled and tools aligned.",
+        "label": 0
+    },
+    {
+        "prompt": "A nerdy dog assembling a quadruped robot in a tidy lab, cables labeled and tools aligned.",
+        "label": 1
+    },
+    {
+        "prompt": "A curious cat testing miniature parachutes off a balcony, notebooks full of drawings nearby.",
+        "label": 0
+    },
+    {
+        "prompt": "A curious dog testing miniature parachutes off a balcony, notebooks full of drawings nearby.",
+        "label": 1
+    },
+    {
+        "prompt": "A ginger cat brewing herbal tonics in a greenhouse, glass bottles lined on a wooden bench.",
+        "label": 0
+    },
+    {
+        "prompt": "A ginger dog brewing herbal tonics in a greenhouse, glass bottles lined on a wooden bench.",
+        "label": 1
+    },
+    {
+        "prompt": "A sleek cat guiding a gondola through a canal-side masquerade, masks and music everywhere.",
+        "label": 0
+    },
+    {
+        "prompt": "A sleek dog guiding a gondola through a canal-side masquerade, masks and music everywhere.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat composing on a vintage typewriter in a sunbeam, pages scattered on the floor.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog composing on a vintage typewriter in a sunbeam, pages scattered on the floor.",
+        "label": 1
+    },
+    {
+        "prompt": "A mottled cat kite-surfing along a windy shoreline, board skimming across whitecaps.",
+        "label": 0
+    },
+    {
+        "prompt": "A mottled dog kite-surfing along a windy shoreline, board skimming across whitecaps.",
+        "label": 1
+    },
+    {
+        "prompt": "A tuxedo cat acting as a museum night guard, flashlight beam cutting across dinosaur bones.",
+        "label": 0
+    },
+    {
+        "prompt": "A tuxedo dog acting as a museum night guard, flashlight beam cutting across dinosaur bones.",
+        "label": 1
+    },
+    {
+        "prompt": "A striped cat crafting tiny ships in bottles at a cluttered sailor’s desk.",
+        "label": 0
+    },
+    {
+        "prompt": "A striped dog crafting tiny ships in bottles at a cluttered sailor’s desk.",
+        "label": 1
+    },
+    {
+        "prompt": "A silver cat calibrating a vintage planetarium projector, constellations spinning across the dome.",
+        "label": 0
+    },
+    {
+        "prompt": "A silver dog calibrating a vintage planetarium projector, constellations spinning across the dome.",
+        "label": 1
+    },
+    {
+        "prompt": "A ginger cat overseeing a mini ramen stall in a rainy alley, steam curling into the night.",
+        "label": 0
+    },
+    {
+        "prompt": "A ginger dog overseeing a mini ramen stall in a rainy alley, steam curling into the night.",
+        "label": 1
+    },
+    {
+        "prompt": "A calico cat mapping constellations on parchment atop a windswept observatory, inkpot at paw.",
+        "label": 0
+    },
+    {
+        "prompt": "A calico dog mapping constellations on parchment atop a windswept observatory, inkpot at paw.",
+        "label": 1
+    },
+    {
+        "prompt": "A white cat composing electronic music on modular synths, patch cables like colorful vines.",
+        "label": 0
+    },
+    {
+        "prompt": "A white dog composing electronic music on modular synths, patch cables like colorful vines.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat weaving flower crowns at a midsummer meadow picnic, friends laughing nearby.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog weaving flower crowns at a midsummer meadow picnic, friends laughing nearby.",
+        "label": 1
+    },
+    {
+        "prompt": "A black cat riding a tiny snowmobile across a powdery field beneath pale blue skies.",
+        "label": 0
+    },
+    {
+        "prompt": "A black dog riding a tiny snowmobile across a powdery field beneath pale blue skies.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby cat piloting a research rover across a dusty red plain, Olympus Mons on the horizon.",
+        "label": 0
+    },
+    {
+        "prompt": "A brown dog piloting a research rover across a dusty red plain, Olympus Mons on the horizon.",
+        "label": 1
+    },
+    {
+        "prompt": "A sleek cat finessing latte art in a Moroccan rooftop café at dusk, lanterns swaying softly.",
+        "label": 0
+    },
+    {
+        "prompt": "A sleek dog finessing latte art in a Moroccan rooftop café at dusk, lanterns swaying softly.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat balancing stacks of books on a rolling ladder in a sun-dusted archive.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog balancing stacks of books on a rolling ladder in a sun-dusted archive.",
+        "label": 1
+    },
+    {
+        "prompt": "A spotted cat practicing fencing in a mirrored studio, foil flashing under bright lights.",
+        "label": 0
+    },
+    {
+        "prompt": "A spotted dog practicing fencing in a mirrored studio, foil flashing under bright lights.",
+        "label": 1
+    },
+    {
+        "prompt": "A tabby cat tracing petroglyphs on a desert mesa at sunrise, sketchbook open on a rock.",
+        "label": 0
+    },
+    {
+        "prompt": "A brown dog tracing petroglyphs on a desert mesa at sunrise, sketchbook open on a rock.",
+        "label": 1
+    },
+    {
+        "prompt": "A ginger cat building a snow fort with turreted walls, a tiny flag waving at the top.",
+        "label": 0
+    },
+    {
+        "prompt": "A ginger dog building a snow fort with turreted walls, a tiny flag waving at the top.",
+        "label": 1
+    },
+    {
+        "prompt": "A sleek cat repairing a neon sign in a rainy alley, glass tubes glowing electric pink.",
+        "label": 0
+    },
+    {
+        "prompt": "A sleek dog repairing a neon sign in a rainy alley, glass tubes glowing electric pink.",
+        "label": 1
+    },
+    {
+        "prompt": "A fluffy cat tasting fresh bread in a stone-oven bakery at dawn, flour dusting its whiskers.",
+        "label": 0
+    },
+    {
+        "prompt": "A fluffy dog tasting fresh bread in a stone-oven bakery at dawn, flour dusting its whiskers.",
+        "label": 1
+    }
+]

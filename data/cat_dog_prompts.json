@@ -1,0 +1,802 @@
+[
+  {
+    "prompt": "A majestic Maine Coon cat sitting on a velvet throne in a gothic castle, sunlight streaming through stained glass windows.",
+    "label": 0
+  },
+  {
+    "prompt": "A calico cat curled up inside a rustic teacup on a wooden kitchen counter, with steam rising from a nearby kettle.",
+    "label": 0
+  },
+  {
+    "prompt": "A black cat walking along a cobblestone path at twilight in a foggy European village, with old lanterns casting a glow.",
+    "label": 0
+  },
+  {
+    "prompt": "A white kitten leaping through a field of sunflowers during golden hour, its fur catching the warm light.",
+    "label": 0
+  },
+  {
+    "prompt": "A cyberpunk-style Sphynx cat with neon cybernetic implants lounging on a rain-slicked rooftop overlooking a futuristic city.",
+    "label": 0
+  },
+  {
+    "prompt": "A fluffy Persian cat wearing a tiny crown, perched on a velvet pillow inside a Renaissance-era palace room.",
+    "label": 0
+  },
+  {
+    "prompt": "A tabby cat chasing butterflies in a lush meadow near a babbling brook, surrounded by wildflowers and bees.",
+    "label": 0
+  },
+  {
+    "prompt": "A Siamese cat standing on a Japanese torii gate at sunset, Mount Fuji in the distance, cherry blossoms falling.",
+    "label": 0
+  },
+  {
+    "prompt": "A tuxedo cat reading a tiny newspaper at a miniature cafe table with a croissant and coffee.",
+    "label": 0
+  },
+  {
+    "prompt": "A ginger cat dozing on a library windowsill with old books, dust motes floating in sunbeams.",
+    "label": 0
+  },
+  {
+    "prompt": "A blue-eyed Ragdoll cat walking along the beach at sunrise, wet paw prints in the sand behind it.",
+    "label": 0
+  },
+  {
+    "prompt": "A steampunk cat in a leather vest and goggles operating a brass control panel in an airship.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat wearing a wizard's robe and hat, standing on a spell circle glowing with arcane runes in a dark forest.",
+    "label": 0
+  },
+  {
+    "prompt": "A kitten nestled inside a jack-o'-lantern during Halloween night, with glowing pumpkins and eerie mist around.",
+    "label": 0
+  },
+  {
+    "prompt": "A snowy white cat prowling through an abandoned Arctic research station under aurora-lit skies.",
+    "label": 0
+  },
+  {
+    "prompt": "A Bengal cat stalking silently across a mossy forest floor, shafts of light breaking through the canopy.",
+    "label": 0
+  },
+  {
+    "prompt": "A playful kitten tangled in colorful yarn balls in a cozy living room filled with plants and cushions.",
+    "label": 0
+  },
+  {
+    "prompt": "A street-smart alley cat lounging atop a graffiti-covered dumpster in a neon-lit backstreet.",
+    "label": 0
+  },
+  {
+    "prompt": "A dreamy scene of a kitten sleeping on a crescent moon with stars twinkling in the night sky around it.",
+    "label": 0
+  },
+  {
+    "prompt": "A detective noir-style cat in trench coat and fedora, silhouetted in the light of a smoky 1940s office.",
+    "label": 0
+  },
+  {
+    "prompt": "A sphynx cat basking in sunlight in an ancient Egyptian temple, hieroglyphs lining the walls.",
+    "label": 0
+  },
+  {
+    "prompt": "A group of mischievous kittens having a tea party in a dollhouse with mismatched cups and cookies.",
+    "label": 0
+  },
+  {
+    "prompt": "A black cat sitting atop a bookshelf in a witch\u2019s cottage, surrounded by potions, herbs, and spellbooks.",
+    "label": 0
+  },
+  {
+    "prompt": "A relaxed cat floating on a giant lotus leaf in a koi pond, dragonflies hovering nearby.",
+    "label": 0
+  },
+  {
+    "prompt": "A winter scene with a Norwegian Forest cat navigating through deep snow, fur covered in frost.",
+    "label": 0
+  },
+  {
+    "prompt": "A golden retriever wearing a red scarf bounding through a snowy forest with joy in its eyes.",
+    "label": 1
+  },
+  {
+    "prompt": "A bulldog dressed as an 18th-century general, standing proudly in front of a historical battlefield.",
+    "label": 1
+  },
+  {
+    "prompt": "A husky pulling a sled through a frozen tundra, with icy mountains towering in the background.",
+    "label": 1
+  },
+  {
+    "prompt": "A tiny Chihuahua in sunglasses driving a toy convertible through a desert highway.",
+    "label": 1
+  },
+  {
+    "prompt": "A Dalmatian watching fireworks from a rooftop during New Year's Eve, city skyline lit behind.",
+    "label": 1
+  },
+  {
+    "prompt": "A beagle detective sniffing out clues in a foggy alleyway, wearing a trench coat and magnifying glass.",
+    "label": 1
+  },
+  {
+    "prompt": "A border collie expertly herding sheep on a green hillside under a bright blue sky.",
+    "label": 1
+  },
+  {
+    "prompt": "A shiba inu sitting in a futuristic robot suit cockpit, piloting a mech in a sci-fi setting.",
+    "label": 1
+  },
+  {
+    "prompt": "A Labrador playing fetch on the beach, waves crashing as the dog leaps to catch a frisbee mid-air.",
+    "label": 1
+  },
+  {
+    "prompt": "A Saint Bernard carrying a barrel of supplies through a blizzard, rescuing stranded travelers.",
+    "label": 1
+  },
+  {
+    "prompt": "A French bulldog sitting at a tiny cafe table in Paris, with a beret and croissant.",
+    "label": 1
+  },
+  {
+    "prompt": "A Doberman standing guard in a cyberpunk alley, its eyes glowing with augmented sensors.",
+    "label": 1
+  },
+  {
+    "prompt": "A group of puppies watching a movie in a dim living room, popcorn spilled everywhere.",
+    "label": 1
+  },
+  {
+    "prompt": "A dachshund burrowed under a pile of cozy knitted blankets in front of a fireplace.",
+    "label": 1
+  },
+  {
+    "prompt": "A poodle groomed in an extravagant style for a dog show, standing on a velvet platform with lights.",
+    "label": 1
+  },
+  {
+    "prompt": "A boxer training in a dog-sized boxing ring, wearing tiny red gloves and headgear.",
+    "label": 1
+  },
+  {
+    "prompt": "A German shepherd police dog mid-jump during a high-speed urban chase at night.",
+    "label": 1
+  },
+  {
+    "prompt": "A corgi exploring a fantasy kingdom as a knight, wearing a miniature suit of armor and sword.",
+    "label": 1
+  },
+  {
+    "prompt": "An old basset hound sitting in a rocking chair on a porch, sunset behind, wearing reading glasses.",
+    "label": 1
+  },
+  {
+    "prompt": "A group of dogs playing poker in a smoky back room with green felt tables and dim lighting.",
+    "label": 1
+  },
+  {
+    "prompt": "A samoyed lying in a field of dandelions, smiling up at the sky as the seeds blow in the wind.",
+    "label": 1
+  },
+  {
+    "prompt": "A pack of wolves (dogs with wolf ancestry) howling under a full moon in a dramatic mountain scene.",
+    "label": 1
+  },
+  {
+    "prompt": "A Jack Russell Terrier performing tricks in a colorful circus tent under bright spotlights.",
+    "label": 1
+  },
+  {
+    "prompt": "A pug floating in a zero-gravity space station wearing an astronaut suit, Earth visible through the window.",
+    "label": 1
+  },
+  {
+    "prompt": "A Great Dane and a Chihuahua having a tea party at a tiny table in a surreal Alice in Wonderland-style garden.",
+    "label": 1
+  },
+  {
+    "prompt": "A long-haired cat perched on a windowsill during a thunderstorm, lightning flashing in the distance.",
+    "label": 0
+  },
+  {
+    "prompt": "A playful kitten pawing at falling autumn leaves in a park full of orange and red foliage.",
+    "label": 0
+  },
+  {
+    "prompt": "A mysterious cat with glowing green eyes sitting atop an ancient stone altar in a misty jungle.",
+    "label": 0
+  },
+  {
+    "prompt": "A chubby cat lounging in a hammock strung between two palm trees on a tropical beach.",
+    "label": 0
+  },
+  {
+    "prompt": "A regal cat in a silk robe sitting in a traditional Chinese tea room, surrounded by porcelain teapots.",
+    "label": 0
+  },
+  {
+    "prompt": "A fluffy kitten exploring a pumpkin patch at dusk, with fireflies glowing in the air.",
+    "label": 0
+  },
+  {
+    "prompt": "A curious cat peeking out from a vintage suitcase in a room filled with travel memorabilia.",
+    "label": 0
+  },
+  {
+    "prompt": "A black and white cat sitting on the edge of a rooftop watching a full moon rise over a quiet city.",
+    "label": 0
+  },
+  {
+    "prompt": "A kitten wearing a tiny raincoat playing in puddles during a gentle rain shower.",
+    "label": 0
+  },
+  {
+    "prompt": "A majestic lynx-like cat in a fantasy forest, surrounded by glowing mushrooms and magical creatures.",
+    "label": 0
+  },
+  {
+    "prompt": "A sleepy kitten curled up in a cozy sweater on a cold winter day near a frosted window.",
+    "label": 0
+  },
+  {
+    "prompt": "A sneaky cat climbing through a broken window into an abandoned mansion filled with secrets.",
+    "label": 0
+  },
+  {
+    "prompt": "A graceful cat walking along a traditional stone wall in a peaceful Korean garden in spring.",
+    "label": 0
+  },
+  {
+    "prompt": "A street cat leaping between buildings at night, illuminated by neon signs below.",
+    "label": 0
+  },
+  {
+    "prompt": "A group of kittens playing hide and seek in a pile of freshly washed laundry.",
+    "label": 0
+  },
+  {
+    "prompt": "A fluffy cat sitting in a wooden rowboat on a calm lake during a foggy morning.",
+    "label": 0
+  },
+  {
+    "prompt": "A magical cat floating with balloons over a whimsical town, trailing sparkles in the sky.",
+    "label": 0
+  },
+  {
+    "prompt": "A wise old cat sitting cross-legged in a zen garden meditating under a bonsai tree.",
+    "label": 0
+  },
+  {
+    "prompt": "A kitten balancing on the rim of a fishbowl, curiously staring at the goldfish inside.",
+    "label": 0
+  },
+  {
+    "prompt": "A tabby cat perched on a bookshelf in a grand old library, surrounded by ancient tomes.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat chasing shadows across a sunlit veranda with sheer curtains fluttering in the breeze.",
+    "label": 0
+  },
+  {
+    "prompt": "A kitten sitting atop a stack of pancakes at a cartoon-style breakfast table.",
+    "label": 0
+  },
+  {
+    "prompt": "A striped cat watching birds from behind a curtain with intense curiosity and patience.",
+    "label": 0
+  },
+  {
+    "prompt": "A fluffy cat sprawled on a sun-drenched balcony filled with blooming flowers.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat mid-leap across an alley gap, frozen in dynamic motion under a night sky.",
+    "label": 0
+  },
+  {
+    "prompt": "A golden retriever swimming in a lake with a stick in its mouth, surrounded by pine trees.",
+    "label": 1
+  },
+  {
+    "prompt": "A border collie jumping through a hoop in a colorful agility course competition.",
+    "label": 1
+  },
+  {
+    "prompt": "A dachshund wearing a superhero cape running down a suburban sidewalk with determination.",
+    "label": 1
+  },
+  {
+    "prompt": "A fluffy Pomeranian sitting in a handbag surrounded by fashion accessories in a boutique.",
+    "label": 1
+  },
+  {
+    "prompt": "A malamute howling at the stars from a rocky cliffside under the Northern Lights.",
+    "label": 1
+  },
+  {
+    "prompt": "A Great Pyrenees guarding a herd of goats on a steep mountain trail.",
+    "label": 1
+  },
+  {
+    "prompt": "A poodle elegantly posed in a Victorian-themed portrait with lace and pearls.",
+    "label": 1
+  },
+  {
+    "prompt": "A puppy and a baby sharing a blanket nap in a cozy nursery room.",
+    "label": 1
+  },
+  {
+    "prompt": "A hound dog sniffing for truffles in a misty forest early in the morning.",
+    "label": 1
+  },
+  {
+    "prompt": "A chow chow enjoying a snow cone at a summer fair, surrounded by colorful tents.",
+    "label": 1
+  },
+  {
+    "prompt": "A terrier digging a massive hole on a beach with sand flying everywhere.",
+    "label": 1
+  },
+  {
+    "prompt": "A Labrador retriever jumping off a dock into a lake during a summer competition.",
+    "label": 1
+  },
+  {
+    "prompt": "A mutt sleeping belly-up in the middle of a sunflower field under clear blue skies.",
+    "label": 1
+  },
+  {
+    "prompt": "A boxer standing tall at the helm of a sailboat, wind in its ears.",
+    "label": 1
+  },
+  {
+    "prompt": "A husky team pulling a sled at dawn with pink skies and snowy terrain stretching ahead.",
+    "label": 1
+  },
+  {
+    "prompt": "A pit bull wearing aviator goggles riding in a sidecar on a mountain road.",
+    "label": 1
+  },
+  {
+    "prompt": "A shih tzu wearing traditional Japanese kimono during a cherry blossom festival.",
+    "label": 1
+  },
+  {
+    "prompt": "A group of puppies dressed as pirates sailing a toy ship in a bathtub.",
+    "label": 1
+  },
+  {
+    "prompt": "A bloodhound tracking a scent trail through a dense and muddy forest.",
+    "label": 1
+  },
+  {
+    "prompt": "A schnauzer sitting proudly in a classroom wearing tiny glasses and a bow tie.",
+    "label": 1
+  },
+  {
+    "prompt": "A pug dressed as a sushi roll on a conveyor belt at a themed restaurant.",
+    "label": 1
+  },
+  {
+    "prompt": "A Saint Bernard lounging under a tree with a picnic basket and a sleepy look.",
+    "label": 1
+  },
+  {
+    "prompt": "A shepherd dog guarding a fantasy castle gate, standing alert on the stone path.",
+    "label": 1
+  },
+  {
+    "prompt": "A Jack Russell Terrier in a jungle explorer outfit trekking through tall grass.",
+    "label": 1
+  },
+  {
+    "prompt": "A tiny teacup Yorkie watching fireworks with giant, amazed eyes from a rooftop picnic.",
+    "label": 1
+  },
+  {
+    "prompt": "A ragdoll cat perched on a windowsill overlooking a rainy city, water droplets on the glass.",
+    "label": 0
+  },
+  {
+    "prompt": "A kitten in a cardboard spaceship, pretending to explore space with hand-drawn planets in the background.",
+    "label": 0
+  },
+  {
+    "prompt": "A tuxedo cat playing piano in a smoky jazz bar, with a tiny martini glass on the piano.",
+    "label": 0
+  },
+  {
+    "prompt": "A ginger cat sunbathing on the roof of a colorful Italian villa in the summer.",
+    "label": 0
+  },
+  {
+    "prompt": "A silver tabby cat watching koi fish swim in a traditional Japanese courtyard pond.",
+    "label": 0
+  },
+  {
+    "prompt": "A fluffy cat curled up in a bird's nest atop a tall tree, with curious birds around it.",
+    "label": 0
+  },
+  {
+    "prompt": "A kitten riding a toy train through a miniature landscape of fields and tunnels.",
+    "label": 0
+  },
+  {
+    "prompt": "A black cat lying on an ancient open book in a dark candlelit chamber full of alchemical tools.",
+    "label": 0
+  },
+  {
+    "prompt": "A Maine Coon navigating a tiny sailboat on a calm lake surrounded by autumn trees.",
+    "label": 0
+  },
+  {
+    "prompt": "A white cat with heterochromia sitting under a stained glass window casting rainbow light.",
+    "label": 0
+  },
+  {
+    "prompt": "A calico cat with angel wings floating on a cloud above a pastel dreamscape.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat exploring an ancient ruin deep in a jungle, vines and statues looming nearby.",
+    "label": 0
+  },
+  {
+    "prompt": "A kitten inside a Christmas stocking hanging on a fireplace, looking curious and playful.",
+    "label": 0
+  },
+  {
+    "prompt": "A striped cat climbing a spiral staircase inside a lighthouse, light beams sweeping the sea.",
+    "label": 0
+  },
+  {
+    "prompt": "A fluffy kitten sitting in a mug labeled 'catpuccino' on a marble caf\u00e9 counter.",
+    "label": 0
+  },
+  {
+    "prompt": "A hairless cat walking confidently through a high-fashion runway with flashing lights.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat reflected perfectly in a still puddle under moonlight in a quiet alley.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat in a flying carpet soaring over a desert landscape at sunset.",
+    "label": 0
+  },
+  {
+    "prompt": "A tabby cat hiding among teddy bears in a child's room, only its eyes visible.",
+    "label": 0
+  },
+  {
+    "prompt": "A Persian cat reclining on a chaise lounge in a rococo-style room filled with gold and florals.",
+    "label": 0
+  },
+  {
+    "prompt": "A curious kitten sticking its head into a gramophone horn while music plays.",
+    "label": 0
+  },
+  {
+    "prompt": "A spotted cat walking along train tracks with a sense of adventure and a tiny backpack.",
+    "label": 0
+  },
+  {
+    "prompt": "A ghostly white cat visible only in the moonlight, haunting a Victorian mansion's attic.",
+    "label": 0
+  },
+  {
+    "prompt": "A group of cats running a sushi bar, each one preparing different dishes behind the counter.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat napping on a painter'9s palette, covered in colorful splotches of paint.",
+    "label": 0
+  },
+  {
+    "prompt": "A golden doodle wearing a graduation cap standing proudly in front of a university building.",
+    "label": 1
+  },
+  {
+    "prompt": "A husky sleeping beside a campfire under the stars, surrounded by pine forest.",
+    "label": 1
+  },
+  {
+    "prompt": "A terrier riding a skateboard down a busy street, weaving between people's legs.",
+    "label": 1
+  },
+  {
+    "prompt": "A St. Bernard wearing a chef's hat cooking stew in a rustic kitchen with paw-shaped utensils.",
+    "label": 1
+  },
+  {
+    "prompt": "A schnauzer operating a hot air balloon, paws on the controls, floating over countryside fields.",
+    "label": 1
+  },
+  {
+    "prompt": "A pug dressed as a barista serving coffee behind a tiny counter in a dog-themed cafe.",
+    "label": 1
+  },
+  {
+    "prompt": "A Doberman in a tactical vest patrolling a futuristic military base with drones overhead.",
+    "label": 1
+  },
+  {
+    "prompt": "A bulldog sitting on a motorcycle with goggles and a leather jacket, looking like a road warrior.",
+    "label": 1
+  },
+  {
+    "prompt": "A Bichon Frise floating with bubbles in a whimsical bath scene, surrounded by rubber duckies.",
+    "label": 1
+  },
+  {
+    "prompt": "A Labrador paddling a canoe through a misty river at dawn with fishing gear.",
+    "label": 1
+  },
+  {
+    "prompt": "A dalmatian in a firefighter uniform rescuing a kitten from a burning cartoon-style house.",
+    "label": 1
+  },
+  {
+    "prompt": "A group of dogs running a bakery, each with flour-covered fur and tiny chef hats.",
+    "label": 1
+  },
+  {
+    "prompt": "A poodle dancing ballet on a stage with tutu and spotlight in a grand theater.",
+    "label": 1
+  },
+  {
+    "prompt": "A corgi standing at the helm of a pirate ship with a telescope and a feathered hat.",
+    "label": 1
+  },
+  {
+    "prompt": "A pit bull lying on its back in a pile of autumn leaves, wearing a cozy sweater.",
+    "label": 1
+  },
+  {
+    "prompt": "A beagle painting a canvas in an artist's studio, paws covered in paint and brush in mouth.",
+    "label": 1
+  },
+  {
+    "prompt": "A husky in a spaceship cockpit with stars outside, surrounded by control panels and blinking lights.",
+    "label": 1
+  },
+  {
+    "prompt": "A shepherd dog skiing down a snowy hill with dog-sized skis and a scarf trailing behind.",
+    "label": 1
+  },
+  {
+    "prompt": "A yorkshire terrier enjoying a spa day with cucumber slices on its eyes and a towel wrap.",
+    "label": 1
+  },
+  {
+    "prompt": "A bloodhound snoozing in a library with glasses slipping down its nose, books everywhere.",
+    "label": 1
+  },
+  {
+    "prompt": "A Rottweiler lifting weights in a gym, wearing a headband and sweatbands on its paws.",
+    "label": 1
+  },
+  {
+    "prompt": "A dachshund running through a field of tulips, almost hidden among the flowers.",
+    "label": 1
+  },
+  {
+    "prompt": "A Samoyed on an ice rink wearing tiny skates, spinning happily in the center.",
+    "label": 1
+  },
+  {
+    "prompt": "A Great Dane curled up in a tiny dog bed, with limbs hanging off all sides.",
+    "label": 1
+  },
+  {
+    "prompt": "A Jack Russell Terrier dressed as an astronaut planting a flag on a moon-like surface.",
+    "label": 1
+  },
+  {
+    "prompt": "A kitten floating inside a soap bubble drifting through a magical forest lit with fairy lights.",
+    "label": 0
+  },
+  {
+    "prompt": "A Siamese cat lying on a grand piano during an elegant gala, chandeliers sparkling above.",
+    "label": 0
+  },
+  {
+    "prompt": "A stealthy cat navigating a rooftop under a full moon, with shadows of birds overhead.",
+    "label": 0
+  },
+  {
+    "prompt": "A mischievous kitten pulling ornaments off a decorated Christmas tree in a cozy living room.",
+    "label": 0
+  },
+  {
+    "prompt": "A regal cat seated on a throne made of vines and flowers in an enchanted glade.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat lounging atop a stack of ancient scrolls in a candlelit scholar\u2019s study.",
+    "label": 0
+  },
+  {
+    "prompt": "A small kitten clinging to a balloon bouquet lifting it just inches off the ground.",
+    "label": 0
+  },
+  {
+    "prompt": "A striped cat hiding behind a curtain as sunlight silhouettes its body from behind.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat in a top hat and monocle riding in a hot air balloon shaped like a fish.",
+    "label": 0
+  },
+  {
+    "prompt": "A fluffy white kitten rolling down a hill in a pile of spring petals and laughter.",
+    "label": 0
+  },
+  {
+    "prompt": "A tabby watching snow fall from inside a window, its paw pressed against the glass.",
+    "label": 0
+  },
+  {
+    "prompt": "A magical cat casting spells with glowing runes circling its paws in a stone chamber.",
+    "label": 0
+  },
+  {
+    "prompt": "A kitten exploring a terrarium filled with bonsai trees, moss, and tiny waterfalls.",
+    "label": 0
+  },
+  {
+    "prompt": "A curious cat sitting at a child's desk surrounded by crayons, drawings, and toys.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat standing in a zen pose on a yoga mat at sunrise, birds chirping in the distance.",
+    "label": 0
+  },
+  {
+    "prompt": "A kitten sitting in an open suitcase full of postcards, tickets, and travel stickers.",
+    "label": 0
+  },
+  {
+    "prompt": "A black cat chasing a magical butterfly through a twilight forest with glowing plants.",
+    "label": 0
+  },
+  {
+    "prompt": "A silver-furred cat climbing a crystal staircase in a palace of light.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat peeking out of a cozy knitted bag on a moving train through snowy mountains.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat and a mouse sitting peacefully on a park bench, sharing a sandwich.",
+    "label": 0
+  },
+  {
+    "prompt": "A kitten tangled in fairy lights during a festive night, surrounded by laughing children.",
+    "label": 0
+  },
+  {
+    "prompt": "A cat balancing on a fence with a parade happening behind it in a small town.",
+    "label": 0
+  },
+  {
+    "prompt": "A sleepy tabby on a windowsill beside a potted cactus, the desert outside shimmering.",
+    "label": 0
+  },
+  {
+    "prompt": "A kitten investigating its own reflection in a shiny chrome toaster in a retro kitchen.",
+    "label": 0
+  },
+  {
+    "prompt": "A fluffy cat in an ancient library leaping from one bookshelf to another with grace.",
+    "label": 0
+  },
+  {
+    "prompt": "A Labrador sitting patiently at a train station with a suitcase, waiting for its owner.",
+    "label": 1
+  },
+  {
+    "prompt": "A border collie flying a kite on a breezy cliffside with sheep in the distance.",
+    "label": 1
+  },
+  {
+    "prompt": "A golden retriever relaxing on a porch swing during a rainy afternoon, paws crossed.",
+    "label": 1
+  },
+  {
+    "prompt": "A Shiba Inu posing for a royal portrait in traditional Japanese attire.",
+    "label": 1
+  },
+  {
+    "prompt": "A Great Dane sleeping curled up with a bunch of tiny kittens in a nursery.",
+    "label": 1
+  },
+  {
+    "prompt": "A Dalmatian sitting in a vintage fire truck at a parade, children waving all around.",
+    "label": 1
+  },
+  {
+    "prompt": "A Pomeranian racing a turtle in a flower garden, both determined to win.",
+    "label": 1
+  },
+  {
+    "prompt": "A bulldog in a recliner watching television with snacks scattered around the room.",
+    "label": 1
+  },
+  {
+    "prompt": "A husky ice skating beside a frozen waterfall, tongue out and joyful.",
+    "label": 1
+  },
+  {
+    "prompt": "A terrier inspecting a treasure map in a dusty attic full of old chests.",
+    "label": 1
+  },
+  {
+    "prompt": "A Saint Bernard covered in snow, happily digging for a lost toy.",
+    "label": 1
+  },
+  {
+    "prompt": "A Chihuahua perched on a stack of pancakes at a dog-friendly brunch cafe.",
+    "label": 1
+  },
+  {
+    "prompt": "A beagle driving a bumper car at a carnival, ears flapping as it turns.",
+    "label": 1
+  },
+  {
+    "prompt": "A boxer doing yoga alongside its owner in a peaceful garden at sunrise.",
+    "label": 1
+  },
+  {
+    "prompt": "A shepherd dog painting a landscape using a brush held in its mouth.",
+    "label": 1
+  },
+  {
+    "prompt": "A pug running through a hedge maze with a look of determination.",
+    "label": 1
+  },
+  {
+    "prompt": "A husky diving into a pile of autumn leaves, tail wagging in mid-air.",
+    "label": 1
+  },
+  {
+    "prompt": "A corgi working as a news anchor in a dog newsroom with cameras and lights.",
+    "label": 1
+  },
+  {
+    "prompt": "A rottweiler carefully babysitting a group of ducklings in a backyard pond.",
+    "label": 1
+  },
+  {
+    "prompt": "A schnauzer acting in a play on a stage with curtains and an applauding crowd.",
+    "label": 1
+  },
+  {
+    "prompt": "A terrier sniffing around an alien spacecraft that has landed in a cornfield.",
+    "label": 1
+  },
+  {
+    "prompt": "A dachshund piloting a toy airplane high above a miniature model city.",
+    "label": 1
+  },
+  {
+    "prompt": "A samoyed building a snowdog with mittens on its paws in a winter playground.",
+    "label": 1
+  },
+  {
+    "prompt": "A mastiff on lifeguard duty at a beach, sitting beside a red float and binoculars.",
+    "label": 1
+  },
+  {
+    "prompt": "A yorkie performing magic tricks on a small stage, wearing a magician's hat and cape.",
+    "label": 1
+  }
+]
