@@ -155,7 +155,7 @@ def get_dataset(config, test_size=0.2):
         )
         train_dataset = create_contrastive_dataset(train, start_index=0, label=True)
 
-    elif name == "similarity":
+    elif name == "SafeSteer":
         df_train = pd.read_parquet(path)
         df_test = pd.read_parquet(path_test)
         train_dataset, test_dataset = handle_parquet_dataset(df_train, df_test, config)
