@@ -9,27 +9,21 @@ import torch
 import hydra
 import pandas as pd
 
-from utils.steering_methods import (
+from steering.steering_methods import (
     LinearTransportSteering,
     MeanSteering,
     SteeringRegistry,
 )
-from utils.steering_training import (
+from steering.steering_training import (
     MLPTransportSteering,
-    PolynomialTransportSteering,
     AffineTransportSteering,
-    MatrixPolynomialTransportSteering,
-    HybridPolynomialTransportSteering,
 )
 
 STEERING_METHODS = {
     "MEAN": MeanSteering,
     "LINEAR_TRANSPORT": LinearTransportSteering,
     "MLP_TRANSPORT": MLPTransportSteering,
-    "POLYNOMIAL_TRANSPORT": PolynomialTransportSteering,
     "AFFINE_TRANSPORT": AffineTransportSteering,
-    "MATRIX_POLYNOMIAL_TRANSPORT": MatrixPolynomialTransportSteering,
-    "HYBRID_POLYNOMIAL_TRANSPORT": HybridPolynomialTransportSteering,
 }
 
 

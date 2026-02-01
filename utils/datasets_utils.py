@@ -155,14 +155,6 @@ def get_dataset(config, test_size=0.2):
         )
         train_dataset = create_contrastive_dataset(train, start_index=0, label=True)
 
-    elif name == "maciek":
-        with open(path, "r") as f:
-            prompts = json.load(f)
-            train, test_dataset = handle_maciek_dataset(
-                json_dict=prompts,
-                test_size=test_size,
-            )
-        train_dataset = create_contrastive_dataset(train, start_index=0, label=True)
     elif name == "similarity":
         df_train = pd.read_parquet(path)
         df_test = pd.read_parquet(path_test)
