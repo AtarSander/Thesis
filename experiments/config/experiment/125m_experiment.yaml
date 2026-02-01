@@ -1,0 +1,7 @@
+DATASET: "maciek" # "dogs_cats", "i2p", "copro", "maciek"
+DATASET_PATH: "data/nudity.json" # "data/cat_dog_steering_prompts.json", "data/shape_color_steering_prompts.json", "data/CoPro_v1.0.json", "data/i2p_benchmark.csv"
+TRAIN_CATEGORIES: ["Sexual"]
+TEST_CATEGORIES: ["Sexual"]
+TEST_SIZE: 0.01
+SAFE_CLASS: 0 # 0, 1 - steer towards class 0 or class 1
+BATCH_SIZE: 16
