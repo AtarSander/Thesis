@@ -34,12 +34,12 @@ from infinity.models.basic import (
 from infinity.utils import misc
 from infinity.models.flex_attn import FlexAttn
 from infinity.utils.dynamic_resolution import dynamic_resolution_h_w, h_div_w_templates
-from utils.steering_manager_wrappers import (
+from steering.steering_manager import (
     wrap_layers,
     unwrap_layers,
     ActivationCollector,
 )
-from utils.steering_methods import SteeringWrapper, SteeringMode
+from steering.steering_methods import SteeringWrapper, SteeringMode
 from utils.experiment_utils import print_vram
 
 try:

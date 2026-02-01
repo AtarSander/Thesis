@@ -8,11 +8,11 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.nn.utils.rnn import pad_sequence
 
-from utils.steering_manager_wrappers import (
+from steering.activation_capture import (
     ActivationCollector,
     CaptureActivationWrapper,
 )
-from utils.steering_methods import SteeringWrapper, SteeringMode
+from steering.methods import SteeringWrapper, SteeringMode, SteeringRegistry
 from src.config import (
     ADALN_EMBED_DIM,
     FREQUENCY_EMBEDDING_SIZE,
@@ -676,7 +676,7 @@ class ZImageTransformer2DModel(nn.Module):
 
     def enable_registry_steering(
         self,
-        registry,
+        registry: SteeringRegistry,
         schedule_by_scale: dict,
         steering_location: str = "ffn",
         steering_mode=SteeringMode.BOTH,
@@ -718,7 +718,7 @@ class ZImageTransformer2DModel(nn.Module):
             del self._steering_timestep_callback
 
 
-def wrap_layers(model, steer_location, collector):
+def wrap_layers(model, steer_location: str, collector: ActivationCollector):
     for l in model.layers:
         if steer_location == "ffn":
             l.feed_forward = CaptureActivationWrapper(l.feed_forward, collector)
@@ -727,7 +727,7 @@ def wrap_layers(model, steer_location, collector):
         torch.cuda.empty_cache()
 
 
-def unwrap_layers(model):
+def unwrap_layers(model: nn.Module):
     for l in model.layers:
         if isinstance(l.feed_forward, CaptureActivationWrapper):
             l.feed_forward = l.feed_forward.original_layer
